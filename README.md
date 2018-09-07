@@ -10,8 +10,11 @@ This project is a proof of concept using a knowledge-based approach at it's foun
  - resources / attack_lolbas_mapping.csv: Pre-requisite work done to map MITRE ATT&CK to LOLBAS and vice versa.  This data was folded into the ontology used by the agent.
  - resources / presentations: presentation material that more fully explains this project
 
-## Next Steps:
+### Next Steps:
  - Incorporate more knowledge into the ontology and enable the agent to recognize more objects like registry keys, important file paths, automate de-obfuscation steps, and gather more information about tool command line arguments and what they mean.
- - Add another dimension of feature analysis based on the newly recognized objects.
+ - Add another dimension of feature analysis based on the newly recognized objects. 
  
-  
+***Windows Native Tool References:***
+ - https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+ - https://ss64.com/nt/
+ 
