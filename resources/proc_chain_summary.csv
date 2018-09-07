@@ -1,0 +1,2381 @@
+cnt,cnt_ben,cnt_mal,proc,proc_chain
+1,0,1,explorer.exe,excel.exe => powershell.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+5,0,5,explorer.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,wscript.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,excel.exe => cmd.exe => powershell.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => svchost.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => svchost.exe => unknown_process.exe => svchost.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => explorer.exe
+1,0,1,explorer.exe,wscript.exe => unknown_process.exe => rundll32.exe => svchost.exe => explorer.exe
+9,0,9,explorer.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => rundll32.exe => powershell.exe => explorer.exe
+3,0,3,explorer.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => control.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => winlogon.exe => svchost.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe => unknown_process.exe => explorer.exe
+2,0,2,explorer.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+12,0,12,explorer.exe,unknown_process.exe => control.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process => unknown_process.exe => unknown_process.exe => explorer.exe
+2,0,2,explorer.exe,unknown_process.exe => regsvr32.exe => explorer.exe
+2,0,2,explorer.exe,winword.exe => powershell.exe => unknown_process.exe => svchost.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => vbc.exe => explorer.exe
+1,0,1,explorer.exe,wscript.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,wscript.exe => powershell.exe => explorer.exe
+2,0,2,explorer.exe,unknown_process.exe => explorer.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => unknown_process.exe => explorer.exe
+2,0,2,explorer.exe,winword.exe => powershell.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,winword.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,svchost.exe => svchost.exe => explorer.exe
+4,1,3,explorer.exe,unknown_process.exe => cmd.exe => explorer.exe
+1,0,1,explorer.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => explorer.exe
+2,0,2,explorer.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => winlogon.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => dwm.exe => explorer.exe
+85,0,85,explorer.exe,explorer.exe
+232,0,232,explorer.exe,unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => rundll32.exe => svchost.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => explorer.exe => explorer.exe
+1,0,1,explorer.exe,winword.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+6,0,6,explorer.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => explorer.exe
+3,0,3,explorer.exe,winword.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => svchost.exe => svchost.exe => explorer.exe
+84,0,84,explorer.exe,unknown_process.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => notepad.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.xyz => unknown_process.xyz => explorer.exe
+1,0,1,explorer.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,explorer.exe => explorer.exe
+2,0,2,explorer.exe,unknown_process.exe => unknown_process.tmp => explorer.exe
+6,0,6,explorer.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => svchost.exe => explorer.exe
+2,0,2,explorer.exe,wscript.exe => unknown_process.scr => explorer.exe
+23,0,23,explorer.exe,unknown_process.exe => svchost.exe => explorer.exe
+3,0,3,explorer.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => control.exe => explorer.exe
+4,4,0,explorer.exe,cmd.exe => explorer.exe
+2,0,2,explorer.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => explorer.exe
+1,0,1,explorer.exe,unknown_process => unknown_process.exe => explorer.exe
+2,0,2,explorer.exe,winword.exe => powershell.exe => unknown_process.exe => control.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => winver.exe => explorer.exe
+1,0,1,explorer.exe,wscript.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.tmp => unknown_process.tmp => explorer.exe
+1,0,1,explorer.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => explorer.exe
+1,0,1,explorer.exe,powershell.exe => powershell.exe => unknown_process.exe => svchost.exe => explorer.exe
+2,0,2,explorer.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => explorer.exe
+20,0,20,explorer.exe,winword.exe => powershell.exe => unknown_process.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => svchost.exe => explorer.exe
+1,0,1,explorer.exe,winword.exe => unknown_process.exe => regasm.exe => explorer.exe
+1,0,1,explorer.exe,calc.exe => calc.exe => explorer.exe
+1,0,1,explorer.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => explorer.exe
+20,0,20,msiexec.exe,unknown_process.exe => cmd.exe => msiexec.exe
+8,0,8,msiexec.exe,rundll32.exe => rundll32.exe => msiexec.exe
+15,2,13,msiexec.exe,unknown_process.exe => setup.exe => msiexec.exe
+5,4,1,msiexec.exe,unknown_process.exe => unknown_process.tmp => msiexec.exe
+121,16,105,msiexec.exe,unknown_process.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.aspxdid1579249affid498casinonamespringbok2rtgurlhttp3a2f2fwww2ecdnfile2eeu2fdl2ftracksetup2ftracksetup2easpx3fdid3d1 => unknown_process.tmp => msiexec.exe
+5,0,5,msiexec.exe,winword.exe => msiexec.exe
+5,0,5,msiexec.exe,setup.exe => msiexec.exe
+1,0,1,msiexec.exe,excel.exe => unknown_process.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.tmp => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.exe => unknown_process.com => unknown_process.exe => unknown_process.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.exe => explorer.exe => msiexec.exe
+1,0,1,msiexec.exe,setup.exe => setup.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.exe => cscript.exe => cscript.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.exe => cmd.exe => unknown_process.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => msiexec.exe
+2,0,2,msiexec.exe,unknown_process.exe => msiexec.exe => msiexec.exe
+25,6,19,msiexec.exe,unknown_process.exe => unknown_process.exe => msiexec.exe
+5,0,5,msiexec.exe,cmd.exe => msiexec.exe
+337,0,337,msiexec.exe,msiexec.exe
+7,0,7,msiexec.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => msiexec.exe
+1,0,1,msiexec.exe,winword.exe => unknown_process.exe => unknown_process.exe => explorer.exe => msiexec.exe
+2,0,2,msiexec.exe,unknown_process.exe => unknown_process.exe => msiexec.exe => unknown_process.exe => msiexec.exe
+4,0,4,msiexec.exe,excel.exe => msiexec.exe
+1,0,1,msiexec.exe,unknown_process.tmp => unknown_process.exe => msiexec.exe
+1,0,1,wmic.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe => wmic.exe
+8,0,8,wmic.exe,cmd.exe => wmic.exe
+2,0,2,wmic.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => wmic.exe
+5,0,5,wmic.exe,setup.exe => unknown_process.tmp => wmic.exe
+1,0,1,wmic.exe,wscript.exe => eventvwr.exe => unknown_process.exe => wmic.exe
+3,0,3,wmic.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wmic.exe
+27,0,27,wmic.exe,wscript.exe => unknown_process.exe => unknown_process.exe => wmic.exe
+6,0,6,wmic.exe,wscript.exe => unknown_process.exe => wmic.exe
+1,0,1,wmic.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => mshta.exe => cmd.exe => wmic.exe
+6,0,6,wmic.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,unknown_process.exe => svchost.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,wscript.exe => unknown_process.scr => unknown_process.scr => wmic.exe
+58,0,58,wmic.exe,unknown_process.exe => unknown_process.exe => cmd.exe => wmic.exe
+91,0,91,wmic.exe,unknown_process.exe => wmic.exe
+10,2,8,wmic.exe,wmic.exe
+8,0,8,wmic.exe,unknown_process.exe => cmd.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => wmic.exe
+2,0,2,wmic.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => wmic.exe
+1,0,1,wmic.exe,cmd.exe => mshta.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,unknown_process.exe => unknown_process.tmp => wmic.exe
+79,0,79,wmic.exe,unknown_process.exe => unknown_process.exe => wmic.exe
+2,0,2,wmic.exe,excel.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,osk.exe => osk.exe => osk.exe => mshta.exe => cmd.exe => wmic.exe
+1,1,0,wmic.exe,cmd.exe => cmd.exe => wmic.exe
+43,0,43,wmic.exe,unknown_process.exe => cmd.exe => wmic.exe
+1,0,1,wmic.exe,unknown_process.exe => cmd.exe => wscript.exe => regsvr32.exe => rundll32.exe => wmic.exe
+4,0,4,wmic.exe,unknown_process.exe => iexplore.exe => cmd.exe => wmic.exe
+1,0,1,winword.exe,unknown_process.exe => unknown_process.tmp => winword.exe
+1,0,1,winword.exe,cmd.exe => mshta.exe => powershell.exe => winword.exe
+2,0,2,winword.exe,winword.exe => cmd.exe => unknown_process.exe => unknown_process.tmp => winword.exe
+24,1,23,winword.exe,unknown_process.exe => winword.exe
+1,0,1,winword.exe,cmd.exe => cmd.exe => winword.exe
+6009,2322,3687,winword.exe,winword.exe
+1,0,1,winword.exe,unknown_process.exe => regasm.exe => winword.exe
+17,5,12,winword.exe,winword.exe => winword.exe
+12,0,12,winword.exe,winword.exe => cmd.exe => cmd.exe => winword.exe
+1,0,1,winword.exe,cmstp.exe => cmd.exe => winword.exe
+2,0,2,winword.exe,cmd.exe => winword.exe
+2,0,2,winword.exe,unknown_process.exe => cmd.exe => winword.exe
+1,0,1,winword.exe,wscript.exe => cmd.exe => winword.exe
+1,0,1,winword.exe,unknown_process.exe => unknown_process.vbe => powershell.exe => winword.exe
+1,0,1,winword.exe,unknown_process.exe => winword.exe => winword.exe
+2,0,2,winword.exe,unknown_process.exe => unknown_process.exe => winword.exe
+2,0,2,winword.exe,wscript.exe => winword.exe
+1,0,1,winword.exe,mshta.exe => cmd.exe => powershell.exe => unknown_process.exe => winword.exe
+1,0,1,infdefaultinstall.exe,unknown_process.exe => infdefaultinstall.exe
+1,0,1,odbcconf.exe,winword.exe => cmd.exe => cmd.exe => odbcconf.exe
+1,0,1,mshta.exe,unknown_process.1532508752ga_cndirect_downloadg => wscript.exe => unknown_process.exe => mshta.exe
+1,0,1,mshta.exe,wscript.exe => mshta.exe
+41,41,0,mshta.exe,mshta.exe
+17,0,17,mshta.exe,unknown_process.exe => mshta.exe
+2,0,2,mshta.exe,osk.exe => osk.exe => osk.exe => mshta.exe
+10,1,9,mshta.exe,unknown_process.exe => unknown_process.exe => mshta.exe
+3,0,3,mshta.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => mshta.exe
+1,0,1,mshta.exe,unknown_process.exe => cmd.exe => mshta.exe
+4,0,4,mshta.exe,iexplore.exe => iexplore.exe => mshta.exe
+1,0,1,mshta.exe,osk.exe => osk.exe => mshta.exe
+5,0,5,mshta.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => cmd.exe => cmd.exe => mshta.exe
+5,0,5,mshta.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => mshta.exe
+1,0,1,mshta.exe,wmiprvse.exe => mshta.exe
+1,0,1,mshta.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => unknown_process.exe => mshta.exe
+2,0,2,mshta.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => mshta.exe
+2,0,2,mshta.exe,cmd.exe => mshta.exe
+11,0,11,mshta.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe
+1,0,1,mshta.exe,unknown_process.exe => svchost.exe => mshta.exe
+15,15,0,msdt.exe,iexplore.exe => iexplore.exe => msdt.exe
+1,0,1,msdt.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe => msdt.exe
+1,0,1,msdt.exe,unknown_process.exe => explorer.exe => msdt.exe
+2,0,2,msdt.exe,unknown_process.exe => unknown_process.exe => explorer.exe => msdt.exe
+1,1,0,msdt.exe,cmd.exe => iexplore.exe => iexplore.exe => msdt.exe
+3,0,3,forfiles.exe,unknown_process.exe => cmd.exe => forfiles.exe
+2,0,2,forfiles.exe,excel.exe => forfiles.exe
+4,0,4,forfiles.exe,winword.exe => forfiles.exe
+9,0,9,msbuild.exe,unknown_process.exe => unknown_process.exe => msbuild.exe
+1,0,1,msbuild.exe,winword.exe => svchost.exe => msbuild.exe
+1,0,1,msbuild.exe,unknown_process.exe => msbuild.exe => unknown_process.exe => msbuild.exe => msbuild.exe
+3,0,3,msbuild.exe,unknown_process.exe => msbuild.exe => msbuild.exe
+7,0,7,msbuild.exe,unknown_process.exe => msbuild.exe
+1,0,1,msbuild.exe,unknown_process.exe => unknown_process.exe => msbuild.exe => msbuild.exe
+1,0,1,msbuild.exe,msbuild.exe
+1,0,1,msbuild.exe,unknown_process.exe => msbuild.exe => unknown_process.exe => msbuild.exe
+3,0,3,cmdkey.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmdkey.exe
+1,0,1,cmdkey.exe,unknown_process.exe => cmdkey.exe
+1,0,1,reg.exe,setup.exe => unknown_process.exe => cmd.exe => reg.exe
+2,0,2,reg.exe,unknown_process.exe => notepad.exe => cmd.exe => reg.exe
+101,0,101,reg.exe,winword.exe => cmd.exe => cmd.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process => wscript.exe => cmd.exe => csrss.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => vbc.exe => unknown_process.exe => reg.exe
+15,0,15,reg.exe,unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe => reg.exe
+6,0,6,reg.exe,unknown_process.exe => wscript.exe => cmd.exe => taskeng.exe => cmd.exe => reg.exe
+2,0,2,reg.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => unknown_process.exe => cmd.exe => reg.exe
+2,0,2,reg.exe,install.exe => unknown_process.exe => wscript.exe => cmd.exe => reg.exe
+6,0,6,reg.exe,unknown_process.exe => cmd.exe => unknown_process.exe => reg.exe
+2,0,2,reg.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => reg.exe
+20,0,20,reg.exe,unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe => reg.exe
+11,0,11,reg.exe,unknown_process.exe => unknown_process.tmp => reg.exe
+5,0,5,reg.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe => reg.exe
+316,0,316,reg.exe,unknown_process.exe => cmd.exe => reg.exe
+185,0,185,reg.exe,unknown_process.exe => unknown_process.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => winmgmt.exe => reg.exe
+22,0,22,reg.exe,unknown_process.exe => unknown_process.exe => reg.exe
+6,0,6,reg.exe,cmd.exe => cmd.exe => cmd.exe => reg.exe
+39,39,0,reg.exe,cmd.exe => cmd.exe => reg.exe
+26,0,26,reg.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => reg.exe
+22,0,22,reg.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => reg.exe
+1,0,1,reg.exe,excel.exe => powershell.exe => unknown_process.exe => cmd.exe => reg.exe
+13,0,13,reg.exe,unknown_process.exe => cmd.exe => svchost.exe => cmd.exe => reg.exe
+12,0,12,reg.exe,powershell.exe => reg.exe
+10,0,10,reg.exe,unknown_process.exe => wscript.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => reg.exe
+3,0,3,reg.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => reg.exe
+98,0,98,reg.exe,winword.exe => cmd.exe => cmd.exe => reg.exe
+10,0,10,reg.exe,wscript.exe => reg.exe
+2,0,2,reg.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe => reg.exe
+2,0,2,reg.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => reg.exe
+18,0,18,reg.exe,reg.exe
+29,0,29,reg.exe,unknown_process.exe => cmd.exe => cmd.exe => reg.exe
+6,0,6,reg.exe,winword.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,wscript.exe => unknown_process.exe => unknown_process.exe => reg.exe
+1,0,1,reg.exe,svchost.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => taskmgr.exe => unknown_process.exe => unknown_process.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,wscript.exe => unknown_process.exe => wscript.exe => unknown_process.exe => reg.exe
+3,0,3,reg.exe,unknown_process.exe => unknown_process.xyz => unknown_process.xyz => unknown_process.xyz => reg.exe
+3,0,3,reg.exe,unknown_process => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process => unknown_process => cmd.exe => reg.exe
+1,0,1,reg.exe,setup.exe => cmd.exe => reg.exe
+68,68,0,reg.exe,cmd.exe => reg.exe
+27,0,27,reg.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => taskmgr.exe => unknown_process.exe => cmd.exe => cmd.exe => reg.exe
+4,0,4,reg.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,unknown_process.exe => notepad.exe => notepad.exe => cmd.exe => reg.exe
+2,0,2,reg.exe,unknown_process.exe => setup.exe => reg.exe
+1,0,1,reg.exe,setup.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => wscript.exe => cmd.exe => reg.exe
+346,0,346,reg.exe,unknown_process.exe => reg.exe
+2,0,2,reg.exe,unknown_process.exe => wscript.exe => cmd.exe => csrss.exe => cmd.exe => reg.exe
+56,0,56,reg.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => reg.exe
+1,0,1,reg.exe,excel.exe => cmd.exe => reg.exe
+3,0,3,reg.exe,wscript.exe => unknown_process.exe => reg.exe
+1,1,0,ie4uinit.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => ie4uinit.exe
+1,0,1,ie4uinit.exe,unknown_process.exe => unknown_process.tmp => ie4uinit.exe
+3,0,3,netsh.exe,unknown_process.exe => dllhost.exe => netsh.exe
+1,0,1,netsh.exe,wscript.exe => unknown_process.cmd => unknown_process.exe => netsh.exe
+9,0,9,netsh.exe,unknown_process.exe => cmd.exe => cmd.exe => netsh.exe
+553,2,551,netsh.exe,unknown_process.exe => unknown_process.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.exe => notepad.exe => netsh.exe
+287,0,287,netsh.exe,unknown_process.exe => netsh.exe
+82,0,82,netsh.exe,netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => cscript.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+3,0,3,netsh.exe,cmd.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,install.exe => unknown_process.exe => netsh.exe
+3,0,3,netsh.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => unknown_process.exe => msbuild.exe => netsh.exe
+48,0,48,netsh.exe,unknown_process.exe => cmd.exe => netsh.exe
+16,0,16,netsh.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => netsh.exe
+17,0,17,netsh.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => ctfmon.exe => netsh.exe
+10,0,10,netsh.exe,unknown_process.exe => unknown_process.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => sihost.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.tmp => svchost.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.exe => regasm.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => cmd.exe => unknown_process.exe => netsh.exe
+13,2,11,netsh.exe,unknown_process.exe => unknown_process.tmp => netsh.exe
+1,0,1,netsh.exe,excel.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process => regasm.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => regasm.exe => netsh.exe
+1,0,1,netsh.exe,wscript.exe => unknown_process.exe => explorer.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => unknown_process.exe => svchost.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => eventvwr.exe => unknown_process => cmd.exe => netsh.exe
+8,0,8,netsh.exe,unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,setup.exe => unknown_process.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+68,0,68,netsh.exe,unknown_process.exe => svchost.exe => netsh.exe
+2,0,2,netsh.exe,csrss.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => notepad.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => searchindexer.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => netsh.exe
+1,0,1,netsh.exe,wscript.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+1,0,1,netsh.exe,explorer.exe => explorer.exe => netsh.exe
+3,0,3,netsh.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => systemsettings.exe => netsh.exe
+1,0,1,netsh.exe,cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => taskmgr.exe => unknown_process.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+3,0,3,netsh.exe,unknown_process.exe => csrss.exe => netsh.exe
+6,0,6,netsh.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => netsh.exe
+6,0,6,netsh.exe,powershell.exe => powershell.exe => netsh.exe
+3,0,3,netsh.exe,unknown_process.exe => unknown_process.com => unknown_process.exe => netsh.exe
+1,0,1,netsh.exe,setup.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => rundll32.exe => netsh.exe
+4,0,4,netsh.exe,unknown_process.exe => unknown_process.exe => explorer.exe => netsh.exe
+48,0,48,netsh.exe,unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe => netsh.exe
+4,0,4,netsh.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.exe => explorer.exe => explorer.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => explorer.exe => shellexperiencehost.exe => netsh.exe
+5,0,5,netsh.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => cmd.exe => netsh.exe
+16,16,0,netsh.exe,wscript.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => unknown_process.tmp => unknown_process.tmp => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => cscript.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => audiodg.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => dwm.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => taskmgr.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => unknown_process.tmp => unknown_process.tmp => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => winlogon.exe => netsh.exe
+1,0,1,netsh.exe,svchost.exe => svchost.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => regasm.exe => cmd.exe => netsh.exe
+2,0,2,netsh.exe,unknown_process.exe => unknown_process.exe => lsass.exe => netsh.exe
+35,0,35,netsh.exe,powershell.exe => netsh.exe
+12,0,12,netsh.exe,winword.exe => cmd.exe => unknown_process.exe => unknown_process.tmp => unknown_process.tmp => cmd.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => wudfhost.exe => netsh.exe
+20,0,20,netsh.exe,unknown_process.exe => explorer.exe => netsh.exe
+1,0,1,netsh.exe,unknown_process.exe => shellexperiencehost.exe => netsh.exe
+3,0,3,netsh.exe,unknown_process.exe => conhost.exe => netsh.exe
+2,0,2,cmstp.exe,cmd.exe => cmstp.exe
+3,0,3,cmstp.exe,unknown_process.exe => cmstp.exe
+2,0,2,cmstp.exe,winword.exe => cmd.exe => cmd.exe => cmstp.exe
+6,0,6,cmstp.exe,cmstp.exe
+9,0,9,certutil.exe,unknown_process.exe => cmd.exe => certutil.exe
+2,0,2,certutil.exe,excel.exe => cmd.exe => certutil.exe
+2,0,2,certutil.exe,unknown_process.exe => unknown_process.exe => cmd.exe => certutil.exe
+1,0,1,certutil.exe,unknown_process.exe => certutil.exe
+1,0,1,certutil.exe,winword.exe => cmd.exe => cmd.exe => powershell.exe => certutil.exe
+9,0,9,certutil.exe,cmd.exe => certutil.exe
+1,0,1,certutil.exe,excel.exe => certutil.exe
+5,0,5,certutil.exe,wscript.exe => powershell.exe => cmd.exe => certutil.exe
+2,0,2,certutil.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => certutil.exe
+6,1,5,certutil.exe,unknown_process.exe => unknown_process.tmp => certutil.exe
+3,0,3,certutil.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => certutil.exe
+1,0,1,certutil.exe,unknown_process.exe => unknown_process.tmp => cscript.exe => certutil.exe
+10,0,10,certutil.exe,wscript.exe => cmd.exe => certutil.exe
+4,0,4,certutil.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => certutil.exe
+1,0,1,certutil.exe,wscript.exe => wscript.exe => eventvwr.exe => cmd.exe => certutil.exe
+3,0,3,certutil.exe,wscript.exe => certutil.exe
+21,0,21,certutil.exe,unknown_process.exe => unknown_process.exe => certutil.exe
+3,0,3,control.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => control.exe
+1,0,1,control.exe,sort.exe => control.exe
+1,0,1,control.exe,control.exe
+1,1,0,control.exe,iexplore.exe => iexplore.exe => msdt.exe => control.exe
+3,0,3,control.exe,unknown_process.exe => cmd.exe => cmd.exe => control.exe
+27,1,26,control.exe,unknown_process.exe => control.exe
+1,0,1,control.exe,cmd.exe => cmd.exe => control.exe
+1,0,1,control.exe,unknown_process.exe => unknown_process.exe => control.exe
+1,0,1,control.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => control.exe
+1,0,1,control.exe,unknown_process.exe => explorer.exe => control.exe
+2,0,2,control.exe,winword.exe => powershell.exe => unknown_process.exe => control.exe
+1,0,1,control.exe,unknown_process.exe => cmd.exe => control.exe
+3,0,3,control.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => control.exe
+1,0,1,installutil.exe,unknown_process.exe => installutil.exe => unknown_process.exe => installutil.exe
+1,0,1,installutil.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => installutil.exe
+1,0,1,installutil.exe,installutil.exe
+2,0,2,installutil.exe,unknown_process.exe => cmd.exe => installutil.exe
+2,0,2,installutil.exe,unknown_process.exe => unknown_process.exe => installutil.exe
+7,0,7,installutil.exe,unknown_process.exe => installutil.exe
+2,0,2,wscript.exe,mshta.exe => cmd.exe => wscript.exe
+1,0,1,wscript.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => wscript.exe
+1,0,1,wscript.exe,setup.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe
+8,0,8,wscript.exe,unknown_process.exe => wscript.exe => cmd.exe => wscript.exe
+182,0,182,wscript.exe,unknown_process.exe => cmd.exe => wscript.exe
+39,0,39,wscript.exe,unknown_process.exe => unknown_process.exe => wscript.exe
+13,0,13,wscript.exe,excel.exe => cmd.exe => wscript.exe
+2,0,2,wscript.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => notepad.exe => wscript.exe
+2,0,2,wscript.exe,wscript.exe => cmd.exe => wscript.exe
+6,0,6,wscript.exe,winword.exe => wscript.exe
+1,0,1,wscript.exe,shellexperiencehost.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe
+2,0,2,wscript.exe,unknown_process.exe => svchost.exe => wscript.exe
+1,0,1,wscript.exe,setup.exe => wscript.exe
+2,0,2,wscript.exe,unknown_process.exe => mshta.exe => wscript.exe
+2,0,2,wscript.exe,setup.exe => unknown_process.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => svchost.exe => wscript.exe
+1,0,1,wscript.exe,wscript.exe => unknown_process.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => wscript.exe => unknown_process.exe => wscript.exe
+3,0,3,wscript.exe,unknown_process.exe => wscript.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => winlogon.exe => cmd.exe => wscript.exe
+110,0,110,wscript.exe,wscript.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => unknown_process.exe => explorer.exe => wscript.exe
+1,0,1,wscript.exe,explorer.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => unknown_process.tmp => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => notepad.exe => regsvr32.exe => wscript.exe
+3,0,3,wscript.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => explorer.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => cmd.exe => wscript.exe => regsvr32.exe => rundll32.exe => cmd.exe => wscript.exe
+7,7,0,wscript.exe,cmd.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => unknown_process.exe => wscript.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.exe => unknown_process.exe => wscript.exe => unknown_process.exe => wscript.exe
+3,0,3,wscript.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process => unknown_process => wscript.exe
+1,0,1,wscript.exe,mshta.exe => cmd.exe => powershell.exe => wscript.exe
+1,0,1,wscript.exe,unknown_process.1532508752ga_cndirect_downloadg => wscript.exe
+1,0,1,wscript.exe,setup.exe => unknown_process.exe => unknown_process.exe => wscript.exe
+5,0,5,wscript.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => wscript.exe
+4,0,4,wscript.exe,winword.exe => cmd.exe => wscript.exe
+138,0,138,wscript.exe,unknown_process.exe => wscript.exe
+1282,1282,0,wscript.exe,wscript.exe
+7,0,7,wscript.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => wscript.exe
+1,0,1,wscript.exe,setup.exe => wscript.exe => cmd.exe => wscript.exe
+2,0,2,wscript.exe,install.exe => unknown_process.exe => wscript.exe
+5,0,5,wscript.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe
+1,0,1,wscript.exe,cmd.exe => cmd.exe => wscript.exe
+3,0,3,wscript.exe,excel.exe => unknown_process.exe => unknown_process.exe => wscript.exe
+1,0,1,wscript.exe,powershell.exe => unknown_process.exe => wscript.exe
+37,0,37,wscript.exe,setup.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe
+7,0,7,wscript.exe,wscript.exe => wscript.exe => wscript.exe
+2,0,2,wscript.exe,excel.exe => wscript.exe
+4,0,4,wscript.exe,unknown_process => wscript.exe
+1,0,1,wscript.exe,wscript.exe => unknown_process.exe => wscript.exe => wscript.exe
+2,0,2,wscript.exe,winword.exe => powershell.exe => wscript.exe
+1,0,1,wscript.exe,winword.exe => unknown_process.exe => unknown_process.exe => explorer.exe => wscript.exe
+1,0,1,wscript.exe,wscript.exe => cmd.exe => powershell.exe => wscript.exe
+2,0,2,wscript.exe,iexplore.exe => iexplore.exe => cmd.exe => wscript.exe
+6,0,6,wscript.exe,wscript.exe => eventvwr.exe => wscript.exe
+1,0,1,wscript.exe,installutil.exe => cmd.exe => wscript.exe
+2,0,2,csc.exe,vbc.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => powershell.exe => csc.exe
+12,0,12,csc.exe,powershell.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,winword.exe => powershell.exe => powershell.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => setup.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,excel.exe => powershell.exe => powershell.exe => powershell.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => regasm.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,cmd.exe => powershell.exe => powershell.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,wifitask.exe => wifitask.exe => wifitask.exe => csc.exe
+2,0,2,csc.exe,unknown_process.exe => cmd.exe => powershell.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => vbc.exe => unknown_process.exe => unknown_process.exe => csc.exe
+171,0,171,csc.exe,unknown_process.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,powershell.exe => powershell.exe => powershell.exe => csc.exe
+21,0,21,csc.exe,unknown_process.exe => unknown_process.exe => csc.exe
+2,0,2,csc.exe,powershell.exe => powershell.exe => csc.exe
+3,0,3,csc.exe,unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => powershell.exe => csc.exe
+1,0,1,csc.exe,excel.exe => cmd.exe => powershell.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => powershell.exe => unknown_process.exe => csc.exe
+2,0,2,csc.exe,powerpnt.exe => csc.exe
+1,0,1,csc.exe,unknown_process => csc.exe
+2,0,2,csc.exe,unknown_process.exe => powershell.exe => powershell.exe => powershell.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => rundll32.exe => powershell.exe => csc.exe
+2,0,2,csc.exe,csc.exe
+1,0,1,csc.exe,excel.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,0,1,csc.exe,unknown_process.exe => cmd.exe => powershell.exe => powershell.exe => csc.exe
+2,0,2,csc.exe,wscript.exe => powershell.exe => csc.exe
+1,0,1,csc.exe,setup.exe => csc.exe
+7,0,7,csc.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe
+1,1,0,syncappvpublishingserver.exe,syncappvpublishingserver.exe
+4,0,4,hh.exe,unknown_process.exe => hh.exe
+14,14,0,hh.exe,hh.exe
+1,0,1,extrac32.exe,unknown_process.exe => cmd.exe => extrac32.exe
+5,0,5,regsvr32.exe,unknown_process => unknown_process => regsvr32.exe
+4,0,4,regsvr32.exe,unknown_process.exe => regsvr32.exe => regsvr32.exe
+1,0,1,regsvr32.exe,cmstp.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => notepad.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => wscript.exe => cmd.exe => unknown_process.exe => regsvr32.exe
+86,0,86,regsvr32.exe,unknown_process.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => setup.exe => unknown_process.exe => regsvr32.exe
+1,0,1,regsvr32.exe,cmstp.exe => regsvr32.exe => regsvr32.exe
+19,2,17,regsvr32.exe,unknown_process.exe => unknown_process.exe => regsvr32.exe
+2,0,2,regsvr32.exe,wscript.exe => regsvr32.exe
+3,0,3,regsvr32.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => regsvr32.exe
+1,0,1,regsvr32.exe,mshta.exe => powershell.exe => regsvr32.exe
+139,1,138,regsvr32.exe,unknown_process.exe => unknown_process.tmp => regsvr32.exe
+2,0,2,regsvr32.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvr32.exe
+1,0,1,regsvr32.exe,setup.exe => unknown_process.tmp => cmd.exe => unknown_process.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvr32.exe => regsvr32.exe
+10,0,10,regsvr32.exe,regsvr32.exe
+4,0,4,regsvr32.exe,unknown_process.exe => unknown_process.exe => regsvr32.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => unknown_process.instal => regsvr32.exe
+7,0,7,regsvr32.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => regsvr32.exe
+3,0,3,regsvr32.exe,excel.exe => regsvr32.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => regsvr32.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => wscript.exe => cmd.exe => regsvr32.exe
+10,0,10,regsvr32.exe,unknown_process.exe => unknown_process.tmp => regsvr32.exe => regsvr32.exe
+2,0,2,regsvr32.exe,setup.exe => unknown_process.tmp => regsvr32.exe
+2,0,2,regsvr32.exe,unknown_process.exe => uninst.exe => regsvr32.exe
+1,0,1,regsvr32.exe,unknown_process.exe => cmd.exe => wscript.exe => regsvr32.exe
+12,0,12,regsvr32.exe,unknown_process.exe => cmd.exe => regsvr32.exe
+3,0,3,regsvr32.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvr32.exe
+1,0,1,regsvr32.exe,setup.exe => regsvr32.exe
+3,0,3,regsvr32.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => regsvr32.exe => regsvr32.exe
+5,0,5,regsvr32.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => regsvr32.exe
+3,0,3,regsvr32.exe,excel.exe => regsvr32.exe
+2,0,2,regsvr32.exe,unknown_process.exe => rundll32.exe => regsvr32.exe
+2,0,2,makecab.exe,winword.exe => powershell.exe => unknown_process.exe => control.exe => explorer.exe => makecab.exe
+1,0,1,makecab.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => explorer.exe => makecab.exe
+3,0,3,makecab.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => control.exe => explorer.exe => makecab.exe
+4,0,4,makecab.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => explorer.exe => makecab.exe
+2,0,2,makecab.exe,cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe => makecab.exe
+4,0,4,makecab.exe,unknown_process.exe => explorer.exe => makecab.exe
+1,0,1,makecab.exe,winword.exe => unknown_process.exe => explorer.exe => makecab.exe
+9,0,9,makecab.exe,winword.exe => powershell.exe => unknown_process.exe => explorer.exe => makecab.exe
+1,0,1,makecab.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe => makecab.exe
+3,0,3,makecab.exe,unknown_process.exe => control.exe => explorer.exe => makecab.exe
+2,1,1,wab.exe,wab.exe
+3,0,3,wab.exe,unknown_process.exe => wab.exe
+1,0,1,wab.exe,wab.exe => wab.exe
+1,0,1,msxsl.exe,unknown_process.exe => regsvr32.exe => msxsl.exe
+6,0,6,bitsadmin.exe,unknown_process.exe => cmd.exe => bitsadmin.exe
+174,0,174,bitsadmin.exe,wscript.exe => cmd.exe => bitsadmin.exe
+12,0,12,bitsadmin.exe,excel.exe => cmd.exe => wscript.exe => cmd.exe => bitsadmin.exe
+4,0,4,bitsadmin.exe,wscript.exe => powershell.exe => cmd.exe => bitsadmin.exe
+2,0,2,bitsadmin.exe,winword.exe => cmd.exe => bitsadmin.exe
+1,1,0,bitsadmin.exe,cmd.exe => bitsadmin.exe
+3,0,3,bitsadmin.exe,powershell.exe => cmd.exe => bitsadmin.exe
+3,0,3,expand.exe,unknown_process.exe => cmd.exe => expand.exe
+4,0,4,expand.exe,expand.exe
+4,0,4,expand.exe,cmd.exe => expand.exe
+14,0,14,findstr.exe,unknown_process.exe => unknown_process.exe => cmd.exe => findstr.exe
+65,0,65,findstr.exe,unknown_process.exe => cmd.exe => findstr.exe
+18,0,18,findstr.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => findstr.exe
+3,0,3,findstr.exe,winword.exe => wscript.exe => cmd.exe => findstr.exe
+5,0,5,findstr.exe,powershell.exe => findstr.exe
+6,0,6,findstr.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => findstr.exe
+2,0,2,findstr.exe,cmd.exe => findstr.exe
+6,0,6,findstr.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => cmd.exe => findstr.exe
+1,0,1,findstr.exe,unknown_process.exe => wscript.exe => cmd.exe => powershell.exe => findstr.exe
+1,0,1,findstr.exe,unknown_process.exe => cmd.exe => powershell.exe => findstr.exe
+1,1,0,findstr.exe,install.exe => cmd.exe => findstr.exe
+10,0,10,findstr.exe,unknown_process.exe => cmd.exe => cmd.exe => findstr.exe
+1,0,1,findstr.exe,winword.exe => powershell.exe => findstr.exe
+1,0,1,findstr.exe,wscript.exe => unknown_process.exe => cmd.exe => findstr.exe
+2,0,2,cscript.exe,wscript.exe => unknown_process.exe => cmd.exe => cscript.exe
+3,3,0,cscript.exe,wscript.exe => cscript.exe
+394,0,394,cscript.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+14,0,14,cscript.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+1,0,1,cscript.exe,powershell.exe => cscript.exe
+1,0,1,cscript.exe,unknown_process.exe => wscript.exe => cmd.exe => cscript.exe
+1,0,1,cscript.exe,unknown_process.exe => explorer.exe => cscript.exe
+6,0,6,cscript.exe,cscript.exe
+2,0,2,cscript.exe,wscript.exe => unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe => cscript.exe
+1,0,1,cscript.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe
+2,0,2,cscript.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe => cscript.exe
+2,0,2,cscript.exe,unknown_process.exe => vbc.exe => unknown_process.exe => cmd.exe => cscript.exe
+2,0,2,cscript.exe,unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe => cscript.exe
+1003,0,1003,cscript.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+16,0,16,cscript.exe,cmd.exe => cscript.exe
+2,0,2,cscript.exe,unknown_process.exe => vbc.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+4,0,4,cscript.exe,unknown_process.exe => vbc.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+1,0,1,cscript.exe,wscript.exe => cmd.exe => cscript.exe
+3,0,3,cscript.exe,unknown_process.exe => unknown_process.tmp => cscript.exe
+25,0,25,cscript.exe,unknown_process.exe => cscript.exe
+1,0,1,cscript.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => cscript.exe
+2,0,2,cscript.exe,wscript.exe => unknown_process.exe => wscript.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+1,0,1,cscript.exe,unknown_process.exe => iexplore.exe => cscript.exe
+4,0,4,cscript.exe,wscript.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+2,0,2,cscript.exe,unknown_process.exe => unknown_process.exe => explorer.exe => cscript.exe
+10,0,10,cscript.exe,unknown_process.exe => mshta.exe => cscript.exe
+2,0,2,cscript.exe,unknown_process.exe => wscript.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+1,0,1,cscript.exe,unknown_process.exe => cscript.exe => cscript.exe
+690,0,690,cscript.exe,unknown_process.exe => cmd.exe => cscript.exe
+2,0,2,cscript.exe,unknown_process.exe => unknown_process.exe => cscript.exe
+2,0,2,cscript.exe,explorer.exe => wscript.exe => cmd.exe => cscript.exe
+20,0,20,cscript.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cscript.exe
+1,0,1,powershell.exe,wscript.exe => wscript.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => cmd.exe => cmd.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => cmd.exe => cmd.exe => cmd.exe => powershell.exe => powershell.exe
+1,0,1,powershell.exe,wscript.exe => wscript.exe => eventvwr.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => powershell.exe
+4,0,4,powershell.exe,unknown_process.exe => powershell.exe => powershell.exe => powershell.exe
+1,0,1,powershell.exe,winword.exe => powershell.exe => powershell.exe
+1,0,1,powershell.exe,excel.exe => powershell.exe => powershell.exe => powershell.exe
+34,0,34,powershell.exe,wscript.exe => powershell.exe
+165,165,0,powershell.exe,powershell.exe
+3,0,3,powershell.exe,unknown_process.exe => unknown_process.vbe => powershell.exe
+2,0,2,powershell.exe,install.exe => cmd.exe => powershell.exe
+4,0,4,powershell.exe,iexplore.exe => iexplore.exe => mshta.exe => powershell.exe
+26,0,26,powershell.exe,powershell.exe => powershell.exe
+9,0,9,powershell.exe,excel.exe => cmd.exe => cmd.exe => powershell.exe
+4,0,4,powershell.exe,unknown_process.exe => powershell.exe => powershell.exe
+1,0,1,powershell.exe,wscript.exe => regsvr32.exe => powershell.exe
+1,0,1,powershell.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => cmd.exe => powershell.exe
+5,0,5,powershell.exe,unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => powershell.exe
+3,0,3,powershell.exe,cmd.exe => cmd.exe => powershell.exe => powershell.exe
+265,0,265,powershell.exe,winword.exe => cmd.exe => powershell.exe
+13,0,13,powershell.exe,cmd.exe => powershell.exe => powershell.exe
+3,0,3,powershell.exe,wscript.exe => powershell.exe => cmd.exe => powershell.exe
+6,0,6,powershell.exe,winword.exe => powershell.exe => wscript.exe => powershell.exe
+1,0,1,powershell.exe,setup.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,wmiprvse.exe => mshta.exe => powershell.exe
+5,0,5,powershell.exe,unknown_process.exe => unknown_process.exe => powershell.exe
+7,0,7,powershell.exe,mshta.exe => cmd.exe => powershell.exe
+33,0,33,powershell.exe,unknown_process.exe => unknown_process.exe => cmd.exe => powershell.exe
+57,0,57,powershell.exe,unknown_process.exe => cmd.exe => powershell.exe
+8,0,8,powershell.exe,excel.exe => powershell.exe
+35,0,35,powershell.exe,unknown_process.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,mshta.exe => cmd.exe => powershell.exe => wscript.exe => powershell.exe
+1,0,1,powershell.exe,install.exe => cmd.exe => powershell.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => powershell.exe
+29,0,29,powershell.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe
+5,0,5,powershell.exe,powershell.exe => powershell.exe => powershell.exe
+2,0,2,powershell.exe,mshta.exe => powershell.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe
+18,0,18,powershell.exe,setup.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe => powershell.exe
+3,0,3,powershell.exe,unknown_process.exe => unknown_process.tmp => powershell.exe
+15,0,15,powershell.exe,cmd.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => rundll32.exe => powershell.exe
+699,0,699,powershell.exe,winword.exe => powershell.exe
+2,0,2,powershell.exe,unknown_process.exe => wscript.exe => powershell.exe
+15,0,15,powershell.exe,unknown_process.exe => cmd.exe => powershell.exe => powershell.exe
+2,0,2,powershell.exe,winword.exe => cmd.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,wscript.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => powershell.exe
+2,0,2,powershell.exe,unknown_process.exe => wscript.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,wscript.exe => cmd.exe => powershell.exe => wscript.exe => cmd.exe => powershell.exe
+63,0,63,powershell.exe,cmd.exe => powershell.exe
+50,0,50,powershell.exe,excel.exe => cmd.exe => powershell.exe
+2,0,2,powershell.exe,excel.exe => wscript.exe => powershell.exe
+3,0,3,powershell.exe,unknown_process.exe => cmd.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => powershell.exe
+1,0,1,powershell.exe,excel.exe => powershell.exe => powershell.exe
+1,0,1,tracker.exe,tracker.exe
+1,0,1,rundll32.exe,unknown_process.exe => explorer.exe => unknown_process.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => unknown_process.tmp => iexplore.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => setup.exe => unknown_process.exe => setup.exe => rundll32.exe
+6,0,6,rundll32.exe,unknown_process.exe => rundll32.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => msbuild.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => unknown_process => rundll32.exe
+1,0,1,rundll32.exe,sort.exe => control.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => svchost.exe => svchost.exe => rundll32.exe
+2,0,2,rundll32.exe,unknown_process.exe => wscript.exe => rundll32.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => cmd.exe => wscript.exe => regsvr32.exe => rundll32.exe
+4,0,4,rundll32.exe,unknown_process.exe => cmd.exe => unknown_process.exe => rundll32.exe
+4,0,4,rundll32.exe,winword.exe => rundll32.exe => rundll32.exe
+1,0,1,rundll32.exe,wscript.exe => wscript.exe => rundll32.exe
+200,1,199,rundll32.exe,unknown_process.exe => rundll32.exe
+6,0,6,rundll32.exe,unknown_process.exe => setup.exe => rundll32.exe
+1,0,1,rundll32.exe,cmd.exe => rundll32.exe
+3,0,3,rundll32.exe,unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe
+6,0,6,rundll32.exe,winword.exe => rundll32.exe
+3,0,3,rundll32.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => control.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => unknown_process.exe => svchost.exe => winlogon.exe => unknown_process.exe => unknown_process.exe => svchost.exe => rundll32.exe
+2,0,2,rundll32.exe,svchost.exe => rundll32.exe
+12,0,12,rundll32.exe,unknown_process.exe => unknown_process.tmp => rundll32.exe
+5,0,5,rundll32.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => unknown_process.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => unknown_process.exe => control.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => rundll32.exe
+4,1,3,rundll32.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => rundll32.exe
+2,0,2,rundll32.exe,winword.exe => powershell.exe => unknown_process.exe => control.exe => rundll32.exe
+3,0,3,rundll32.exe,excel.exe => rundll32.exe
+2,0,2,rundll32.exe,wscript.exe => unknown_process.exe => rundll32.exe
+20,1,19,rundll32.exe,unknown_process.exe => control.exe => rundll32.exe
+9,0,9,rundll32.exe,unknown_process.exe => cmd.exe => rundll32.exe
+3,0,3,rundll32.exe,unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe
+4,0,4,rundll32.exe,unknown_process.exe => explorer.exe => rundll32.exe
+3,0,3,rundll32.exe,unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe
+1,0,1,rundll32.exe,powershell.exe => unknown_process.exe => rundll32.exe
+12,0,12,rundll32.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process => rundll32.exe
+3,0,3,rundll32.exe,unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe => unknown_process.exe => rundll32.exe
+3,0,3,rundll32.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => rundll32.exe
+2,0,2,rundll32.exe,unknown_process.exe => unknown_process.exe => svchost.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => cmd.exe => control.exe => rundll32.exe
+5832,0,5832,rundll32.exe,rundll32.exe
+5,0,5,rundll32.exe,unknown_process.exe => wscript.exe => rundll32.exe
+1,0,1,rundll32.exe,unknown_process.exe => unknown_process.tmp => install.exe => cmd.exe => rundll32.exe
+3,0,3,rundll32.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => control.exe => rundll32.exe
+9,0,9,rundll32.exe,rundll32.exe => rundll32.exe
+8,0,8,rundll32.exe,unknown_process.exe => svchost.exe => rundll32.exe
+41,0,41,rundll32.exe,unknown_process.exe => unknown_process.exe => rundll32.exe
+1,0,1,runonce.exe,unknown_process.exe => infdefaultinstall.exe => runonce.exe
+1,0,1,runonce.exe,unknown_process.exe => rundll32.exe => runonce.exe
+1,0,1,runonce.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => rundll32.exe => runonce.exe
+1,1,0,runonce.exe,runonce.exe
+1,0,1,runonce.exe,unknown_process.exe => unknown_process.tmp => install.exe => cmd.exe => rundll32.exe => runonce.exe
+7,0,7,dfsvc.exe,unknown_process.exe => dfsvc.exe
+2,0,2,dfsvc.exe,unknown_process.exe => cmd.exe => unknown_process.exe => rundll32.exe => dfsvc.exe
+3,0,3,dfsvc.exe,setup.exe => dfsvc.exe
+1,1,0,dfsvc.exe,dfsvc.exe
+1,0,1,dfsvc.exe,unknown_process.exe => rundll32.exe => dfsvc.exe
+1,0,1,regedit.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => regedit.exe
+1,0,1,regedit.exe,unknown_process.exe => vbc.exe => unknown_process.exe => unknown_process.exe => cmd.exe => regedit.exe
+1,0,1,regedit.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => regedit.exe
+1,0,1,regedit.exe,cmd.exe => regedit.exe
+2,0,2,regedit.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => regedit.exe
+3,0,3,regedit.exe,unknown_process.exe => unknown_process.exe => regedit.exe
+9,0,9,regedit.exe,unknown_process.exe => regedit.exe
+2,0,2,regedit.exe,install.exe => unknown_process.exe => wscript.exe => cmd.exe => regedit.exe
+77,0,77,regedit.exe,unknown_process.exe => unknown_process.exe => cmd.exe => regedit.exe
+1,0,1,regedit.exe,unknown_process.exe => wscript.exe => cmd.exe => regedit.exe
+19,0,19,regedit.exe,unknown_process.exe => cmd.exe => regedit.exe
+2,0,2,regedit.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => regedit.exe
+3,0,3,regasm.exe,unknown_process.exe => cmd.exe => unknown_process.exe => regasm.exe
+2,0,2,regasm.exe,regasm.exe
+2,0,2,regasm.exe,unknown_process.exe => regasm.exe => unknown_process.exe => regasm.exe => regasm.exe
+1,0,1,regasm.exe,install.exe => unknown_process.exe => cmd.exe => svchost.exe => regasm.exe
+2,0,2,regasm.exe,unknown_process.exe => cmd.exe => regasm.exe
+13,0,13,regasm.exe,unknown_process.exe => unknown_process.exe => regasm.exe
+1,0,1,regasm.exe,winword.exe => powershell.exe => unknown_process.exe => cmd.exe => unknown_process.exe => regasm.exe
+1,0,1,regasm.exe,unknown_process.tmp => regasm.exe
+1,0,1,regasm.exe,vbc.exe => regasm.exe
+1,0,1,regasm.exe,unknown_process.exe => cmd.exe => unknown_process.ini => regasm.exe
+4,0,4,regasm.exe,winword.exe => unknown_process.exe => regasm.exe
+4,0,4,regasm.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => regasm.exe
+2,0,2,regasm.exe,mshta.exe => cmd.exe => unknown_process.exe => regasm.exe
+2,0,2,regasm.exe,unknown_process.exe => regasm.exe => unknown_process.exe => regasm.exe
+1,0,1,regasm.exe,unknown_process.exe => installutil.exe => unknown_process.exe => installutil.exe => regasm.exe
+1,0,1,regasm.exe,net.exe => regasm.exe
+1,0,1,regasm.exe,unknown_process => regasm.exe
+116,0,116,regasm.exe,unknown_process.exe => regasm.exe
+4,0,4,regasm.exe,unknown_process.exe => regasm.exe => regasm.exe
+5,0,5,regasm.exe,unknown_process.exe => unknown_process.tmp => regasm.exe
+1,0,1,regasm.exe,excel.exe => cmd.exe => powershell.exe => unknown_process.exe => regasm.exe
+6,0,6,sc.exe,sc.exe
+3,0,3,sc.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => sc.exe
+7,0,7,sc.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => sc.exe
+4,0,4,sc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+134,4,130,sc.exe,unknown_process.exe => sc.exe
+2,0,2,sc.exe,wscript.exe => cmd.exe => unknown_process.exe => cmd.exe => sc.exe
+6,4,2,sc.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => sc.exe
+3,0,3,sc.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => sc.exe
+2,0,2,sc.exe,wscript.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+1,0,1,sc.exe,wscript.exe => wscript.exe => eventvwr.exe => cmd.exe => sc.exe
+3,0,3,sc.exe,wscript.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+2,0,2,sc.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => sc.exe
+1,0,1,sc.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+2,0,2,sc.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => sc.exe
+14,0,14,sc.exe,unknown_process.exe => wscript.exe => cmd.exe => sc.exe
+2,0,2,sc.exe,setup.exe => cmd.exe => sc.exe
+8,0,8,sc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+1,0,1,sc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => sc.exe
+2,0,2,sc.exe,setup.exe => setup.exe => unknown_process.tmp => cmd.exe => sc.exe
+1,0,1,sc.exe,setup.exe => unknown_process.exe => cmd.exe => sc.exe
+2,0,2,sc.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+3,0,3,sc.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => sc.exe
+1,0,1,sc.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => sc.exe
+2,0,2,sc.exe,winword.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+105,0,105,sc.exe,unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+54,1,53,sc.exe,unknown_process.exe => unknown_process.tmp => sc.exe
+2,0,2,sc.exe,setup.exe => unknown_process.tmp => cmd.exe => sc.exe
+228,0,228,sc.exe,unknown_process.exe => cmd.exe => sc.exe
+1,0,1,sc.exe,powershell.exe => cmd.exe => sc.exe
+37,0,37,sc.exe,cmd.exe => sc.exe
+32,0,32,sc.exe,unknown_process.exe => unknown_process.exe => sc.exe
+2,0,2,sc.exe,wscript.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => sc.exe
+2,0,2,robocopy.exe,unknown_process.exe => cmd.exe => robocopy.exe
+1,0,1,robocopy.exe,setup.exe => cmd.exe => robocopy.exe
+2,0,2,regsvcs.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe
+50,0,50,regsvcs.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe
+1,0,1,regsvcs.exe,unknown_process.scr => unknown_process.exe => unknown_process.exe => regsvcs.exe
+1,0,1,regsvcs.exe,mshta.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe
+2,0,2,regsvcs.exe,unknown_process.exe => regsvcs.exe
+107,6,101,dw20.exe,unknown_process.exe => dw20.exe
+1,0,1,dw20.exe,excel.exe => dw20.exe
+3,0,3,dw20.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => dw20.exe
+5,0,5,dw20.exe,winword.exe => dw20.exe
+1,0,1,dw20.exe,unknown_process.exe => cmd.exe => svchost.exe => svchost.exe => dw20.exe
+1,0,1,dw20.exe,winword.exe => unknown_process.exe => dw20.exe
+5,0,5,dw20.exe,winword.exe => cmd.exe => unknown_process.exe => dw20.exe
+1,0,1,dw20.exe,svchost.exe => dw20.exe
+2,0,2,dw20.exe,unknown_process.exe => notepad.exe => notepad.exe => dw20.exe
+1,1,0,dw20.exe,dw20.exe
+1,0,1,dw20.exe,cmd.exe => powershell.exe => powershell.exe => powershell.exe => dw20.exe
+1,0,1,dw20.exe,unknown_process.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe => dw20.exe
+1,0,1,dw20.exe,mshta.exe => cmd.exe => powershell.exe => unknown_process.exe => dw20.exe
+175,3,172,dw20.exe,unknown_process.exe => unknown_process.exe => dw20.exe
+2,0,2,dw20.exe,unknown_process.exe => unknown_process.exe => powershell.exe => svchost.exe => dw20.exe
+1,0,1,dw20.exe,unknown_process.exe => vbc.exe => dw20.exe
+1,0,1,dw20.exe,unknown_process.exe => unknown_process.xyz => unknown_process.xyz => dw20.exe
+1,0,1,dw20.exe,powershell.exe => powershell.exe => powershell.exe => powershell.exe => dw20.exe
+2,0,2,dw20.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => dw20.exe
+4,0,4,dw20.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => dw20.exe
+7,0,7,dw20.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => dw20.exe
+1,0,1,dw20.exe,setup.exe => dw20.exe
+1,0,1,dw20.exe,unknown_process.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe => dw20.exe
+3,0,3,dw20.exe,powershell.exe => dw20.exe
+1,0,1,dw20.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => dw20.exe
+6,0,6,dw20.exe,unknown_process.exe => regasm.exe => dw20.exe
+1,0,1,dw20.exe,unknown_process.exe => cmd.exe => regasm.exe => dw20.exe
+1,0,1,setup.exe,unknown_process.exe => unknown_process.exe => setup.exe => setup.exe
+1,0,1,setup.exe,unknown_process => unknown_process => setup.exe
+170,2,168,setup.exe,setup.exe
+1,0,1,setup.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => setup.exe
+1,0,1,setup.exe,unknown_process.exe => unknown_process => setup.exe
+2,0,2,setup.exe,unknown_process.exe => setup.exe => unknown_process.exe => setup.exe
+1,0,1,setup.exe,unknown_process.exe => cmd.exe => setup.exe => unknown_process.tmp => setup.exe
+3,0,3,setup.exe,setup.exe => unknown_process.tmp => setup.exe
+1,0,1,setup.exe,unknown_process => unknown_process.exe => unknown_process.exe => setup.exe
+1,0,1,setup.exe,winword.exe => powershell.exe => unknown_process.exe => setup.exe
+2,0,2,setup.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => setup.exe
+1,0,1,setup.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => setup.exe
+1,0,1,setup.exe,setup.exe => unknown_process.exe => setup.exe
+1,0,1,setup.exe,unknown_process.exe => unknown_process.exe => setup.exe => unknown_process.exe => setup.exe
+1,0,1,setup.exe,unknown_process.exe => unknown_process.tmp => setup.exe => setup.exe
+5,0,5,setup.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => setup.exe
+12,0,12,setup.exe,unknown_process.exe => setup.exe => setup.exe
+9,0,9,setup.exe,setup.exe => setup.exe
+2,0,2,setup.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => setup.exe
+1,0,1,setup.exe,winword.exe => cmd.exe => setup.exe
+1,0,1,setup.exe,unknown_process.exe => setup.exe => setup.exe => setup.exe
+6,0,6,setup.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => setup.exe
+108,10,98,setup.exe,unknown_process.exe => setup.exe
+7,0,7,setup.exe,unknown_process.exe => unknown_process.tmp => setup.exe
+14,1,13,setup.exe,unknown_process.exe => unknown_process.exe => setup.exe
+2,0,2,setup.exe,unknown_process.exe => cmd.exe => setup.exe
+1,1,0,shapecollector.exe,shapecollector.exe
+1,0,1,osppsvc.exe,unknown_process.exe => osppsvc.exe
+6,0,6,osppsvc.exe,unknown_process.exe => svchost.exe => osppsvc.exe
+10,0,10,osppsvc.exe,osppsvc.exe
+1,0,1,osppsvc.exe,unknown_process.exe => winlogon.exe => svchost.exe => osppsvc.exe
+1,0,1,osppsvc.exe,winword.exe => powershell.exe => unknown_process.exe => svchost.exe => osppsvc.exe
+1,0,1,osppsvc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => osppsvc.exe
+9,1,8,install.exe,unknown_process.exe => install.exe
+2,0,2,install.exe,unknown_process.exe => unknown_process.exe => install.exe
+2,0,2,install.exe,unknown_process.exe => unknown_process.tmp => unknown_process => unknown_process.exe => install.exe
+1,0,1,install.exe,unknown_process.exe => unknown_process.tmp => install.exe
+1,0,1,install.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => install.exe
+1,0,1,install.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => install.exe
+15,0,15,install.exe,install.exe
+2,0,2,install.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => install.exe
+1,0,1,install.exe,install.exe => install.exe
+5,2,3,install.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => install.exe
+1,0,1,ielowutil.exe,unknown_process.exe => ielowutil.exe
+4,0,4,iexplore.exe,excel.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => setup.exe => iexplore.exe => iexplore.exe
+12,12,0,iexplore.exe,cmd.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,wscript.exe => unknown_process.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => iexplore.exe => iexplore.exe
+32,2,30,iexplore.exe,unknown_process.exe => unknown_process.tmp => iexplore.exe => iexplore.exe
+46,0,46,iexplore.exe,unknown_process.exe => cmd.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => svchost.exe => svchost.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => unknown_process.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => setup.exe => unknown_process.exe => setup.exe => iexplore.exe => iexplore.exe
+4,0,4,iexplore.exe,unknown_process.exe => rundll32.exe => iexplore.exe => iexplore.exe
+848,848,0,iexplore.exe,iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,inetinfo.exe => unknown_process.tmp => inetinfo.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,svchost.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => cmd.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => svchost.exe => iexplore.exe => iexplore.exe
+3,0,3,iexplore.exe,unknown_process.exe => unknown_process.xyz => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe
+3,0,3,iexplore.exe,winword.exe => iexplore.exe => iexplore.exe
+43,0,43,iexplore.exe,unknown_process.exe => unknown_process.exe => iexplore.exe
+6,0,6,iexplore.exe,unknown_process.exe => rundll32.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => cmd.exe => cmd.exe => cmd.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => explorer.exe => iexplore.exe
+9,0,9,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => rundll32.exe => cmd.exe => iexplore.exe
+1,0,1,iexplore.exe,wscript.exe => unknown_process.exe => explorer.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => cmd.exe => wscript.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => iexplore.exe
+2,0,2,iexplore.exe,excel.exe => clview.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => rundll32.exe => iexplore.exe
+22,0,22,iexplore.exe,unknown_process.exe => cmd.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => unknown_process.exe => iexplore.exe => iexplore.exe
+208,10,198,iexplore.exe,unknown_process.exe => iexplore.exe
+1,0,1,iexplore.exe,wscript.exe => powershell.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => iexplore.exe => iexplore.exe
+2,0,2,iexplore.exe,wscript.exe => cmd.exe => rundll32.exe => iexplore.exe
+1,0,1,iexplore.exe,wscript.exe => unknown_process.exe => iexplore.exe => iexplore.exe
+855,855,0,iexplore.exe,iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => setup.exe => unknown_process.exe => setup.exe => iexplore.exe
+4,0,4,iexplore.exe,excel.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => iexplore.exe => iexplore.exe
+12,12,0,iexplore.exe,cmd.exe => iexplore.exe
+1,0,1,iexplore.exe,setup.exe => iexplore.exe => iexplore.exe
+2,0,2,iexplore.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe
+28,0,28,iexplore.exe,unknown_process.exe => unknown_process.exe => iexplore.exe => iexplore.exe
+5,0,5,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => svchost.exe => unknown_process.exe => iexplore.exe
+3,0,3,iexplore.exe,rundll32.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => svchost.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => rundll32.exe => cmd.exe => iexplore.exe => iexplore.exe
+2,0,2,iexplore.exe,excel.exe => clview.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => vbc.exe => unknown_process.exe => iexplore.exe
+1,0,1,iexplore.exe,setup.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => setup.exe => iexplore.exe
+18,0,18,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => cmd.exe => wscript.exe => iexplore.exe => iexplore.exe
+34,2,32,iexplore.exe,unknown_process.exe => unknown_process.tmp => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => iexplore.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => unknown_process.tmp => explorer.exe => sysprep.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => cmd.exe => iexplore.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => iexplore.exe
+3,0,3,iexplore.exe,rundll32.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => iexplore.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => svchost.exe => svchost.exe => iexplore.exe => iexplore.exe
+3,0,3,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => iexplore.exe
+1,0,1,iexplore.exe,wscript.exe => unknown_process.exe => explorer.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => unknown_process.exe => iexplore.exe => unknown_process.exe => iexplore.exe
+6,0,6,iexplore.exe,wscript.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => cmd.exe => cmd.exe => cmd.exe => iexplore.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => unknown_process.exe => svchost.exe => unknown_process.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => unknown_process.tmp => explorer.exe => sysprep.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,wscript.exe => cmd.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => iexplore.exe => unknown_process.exe => iexplore.exe
+1,0,1,iexplore.exe,unknown_process.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe => iexplore.exe
+140,9,131,iexplore.exe,unknown_process.exe => iexplore.exe => iexplore.exe
+1,0,1,iexplore.exe,inetinfo.exe => unknown_process.tmp => inetinfo.exe => iexplore.exe
+3,0,3,iexplore.exe,winword.exe => iexplore.exe
+2,0,2,iexplore.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => unknown_process.exe => iexplore.exe
+4,0,4,uninst.exe,uninst.exe
+1,0,1,uninst.exe,unknown_process.exe => uninst.exe
+1,0,1,msmpeng.exe,spoolsv.exe => cmd.exe => msmpeng.exe
+1,0,1,msmpeng.exe,msmpeng.exe
+3,0,3,wabmig.exe,unknown_process.exe => wabmig.exe
+1,0,1,winmail.exe,unknown_process.exe => unknown_process.exe => explorer.exe => winmail.exe
+1,0,1,winmail.exe,unknown_process => unknown_process.exe => winmail.exe
+1,0,1,winmail.exe,winmail.exe
+1,0,1,winmail.exe,unknown_process.exe => unknown_process.exe => winmail.exe
+2,0,2,winmail.exe,unknown_process.exe => explorer.exe => winmail.exe
+1,0,1,wordpad.exe,unknown_process.exe => unknown_process.tmp => wordpad.exe
+2,0,2,imagingdevices.exe,unknown_process.exe => imagingdevices.exe
+4,2,2,fltldr.exe,winword.exe => fltldr.exe
+1,0,1,clview.exe,excel.exe => clview.exe
+1,0,1,clview.exe,winword.exe => cmd.exe => cmd.exe => winword.exe => clview.exe
+7,2,5,clview.exe,winword.exe => clview.exe
+2,2,0,clview.exe,clview.exe
+1,0,1,excel.exe,unknown_process.exe => cmd.exe => excel.exe
+1,0,1,excel.exe,excel.exe => excel.exe
+1,0,1,excel.exe,unknown_process.exe => excel.exe => excel.exe
+1,0,1,excel.exe,wscript.exe => excel.exe
+1,0,1,excel.exe,unknown_process.exe => unknown_process.tmp => excel.exe
+2232,1620,612,excel.exe,excel.exe
+7,0,7,excel.exe,unknown_process.exe => excel.exe
+24,0,24,excelcnv.exe,excelcnv.exe
+1,0,1,groove.exe,winword.exe => groove.exe
+1,0,1,msaccess.exe,msaccess.exe
+4,3,1,mspub.exe,mspub.exe
+1,1,0,outlook.exe,iexplore.exe => iexplore.exe => outlook.exe
+8,4,4,outlook.exe,unknown_process.exe => outlook.exe
+1,0,1,outlook.exe,excel.exe => outlook.exe
+3,3,0,outlook.exe,outlook.exe
+166,140,26,powerpnt.exe,powerpnt.exe
+3,2,1,powerpnt.exe,powerpnt.exe => powerpnt.exe
+1,1,0,setlang.exe,setlang.exe
+1,1,0,wordconv.exe,wordconv.exe
+1,1,0,filesyncconfig.exe,onedrivesetup.exe => onedrivesetup.exe => filesyncconfig.exe
+8,7,1,onedrivesetup.exe,onedrivesetup.exe => onedrivesetup.exe
+5,4,1,onedrivesetup.exe,onedrivesetup.exe
+1,1,0,onedrive.exe,onedrivesetup.exe => onedrivesetup.exe => onedrive.exe
+1,0,1,onedrive.exe,unknown_process.exe => unknown_process.exe => onedrive.exe
+1,0,1,onedrive.exe,unknown_process.exe => onedrive.exe
+2,0,2,onedrive.exe,onedrive.exe
+1,0,1,chromesetup.exe,chromesetup.exe
+1,0,1,firefox installer.exe,firefox installer.exe
+1,0,1,systemsettings.exe,unknown_process.exe => systemsettings.exe
+4,0,4,applaunch.exe,unknown_process.exe => applaunch.exe
+1,0,1,applaunch.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => applaunch.exe
+1,0,1,aspnet_compiler.exe,unknown_process.exe => aspnet_compiler.exe
+1,0,1,aspnet_regbrowsers.exe,unknown_process.exe => aspnet_regbrowsers.exe
+1,0,1,aspnet_regbrowsers.exe,unknown_process.exe => aspnet_regbrowsers.exe => unknown_process.exe => aspnet_regbrowsers.exe
+1,0,1,aspnet_regbrowsers.exe,unknown_process.exe => aspnet_regbrowsers.exe => unknown_process.exe => aspnet_regbrowsers.exe => aspnet_regbrowsers.exe
+1,0,1,aspnet_regbrowsers.exe,unknown_process.exe => aspnet_regbrowsers.exe => aspnet_regbrowsers.exe
+1,0,1,aspnet_regiis.exe,aspnet_regiis.exe
+1,0,1,caspol.exe,unknown_process.exe => caspol.exe => caspol.exe
+1,0,1,caspol.exe,unknown_process.exe => caspol.exe
+2,0,2,cvtres.exe,unknown_process.exe => powershell.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,excel.exe => powershell.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,cmd.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,excel.exe => unknown_process.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,winword.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+3,0,3,cvtres.exe,unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,wifitask.exe => wifitask.exe => wifitask.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,powershell.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+2,0,2,cvtres.exe,unknown_process.exe => cmd.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+3,0,3,cvtres.exe,unknown_process.exe => unknown_process.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+111,0,111,cvtres.exe,unknown_process.exe => csc.exe => cvtres.exe
+2,0,2,cvtres.exe,powerpnt.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => rundll32.exe => powershell.exe => csc.exe => cvtres.exe
+13,0,13,cvtres.exe,unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+8,0,8,cvtres.exe,cmd.exe => powershell.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => cvtres.exe
+7,0,7,cvtres.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+11,0,11,cvtres.exe,powershell.exe => csc.exe => cvtres.exe
+2,0,2,cvtres.exe,powershell.exe => powershell.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,vbc.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => unknown_process.exe => vbc.exe => cvtres.exe
+2,0,2,cvtres.exe,powershell.exe => powershell.exe => csc.exe => cvtres.exe
+2,0,2,cvtres.exe,csc.exe => cvtres.exe
+2,0,2,cvtres.exe,wscript.exe => powershell.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => cmd.exe => powershell.exe => powershell.exe => csc.exe => cvtres.exe
+3,0,3,cvtres.exe,unknown_process.exe => caspol.exe => vbc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => powershell.exe => unknown_process.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,excel.exe => cmd.exe => powershell.exe => unknown_process.exe => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process => csc.exe => cvtres.exe
+1,0,1,cvtres.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => csc.exe => cvtres.exe
+2,0,2,mscorsvw.exe,unknown_process.exe => unknown_process.exe => svchost.exe => mscorsvw.exe
+247,0,247,mscorsvw.exe,mscorsvw.exe
+2,0,2,mscorsvw.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => mscorsvw.exe
+1,0,1,mscorsvw.exe,winword.exe => powershell.exe => unknown_process.exe => svchost.exe => mscorsvw.exe
+7,0,7,mscorsvw.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => mscorsvw.exe
+4,0,4,mscorsvw.exe,unknown_process.exe => mscorsvw.exe
+1,0,1,mscorsvw.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => mscorsvw.exe
+13,0,13,mscorsvw.exe,unknown_process.exe => svchost.exe => mscorsvw.exe
+2,0,2,mscorsvw.exe,unknown_process.exe => regsvr32.exe => mscorsvw.exe
+4,0,4,mscorsvw.exe,unknown_process.exe => unknown_process.exe => mscorsvw.exe
+4,0,4,ngen.exe,ngen.exe
+1,0,1,ngen.exe,unknown_process.exe => unknown_process.exe => ngen.exe
+17,0,17,ngen.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => ngen.exe
+1,1,0,ngen.exe,unknown_process.exe => setup.exe => ngen.exe
+1,0,1,ngen.exe,unknown_process.exe => unknown_process.exe => explorer.exe => ngen.exe
+3,0,3,ngen.exe,unknown_process.exe => explorer.exe => ngen.exe
+2,0,2,ngen.exe,unknown_process.exe => ngen.exe
+1,0,1,ngen.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => ngen.exe
+1,0,1,servicemodelreg.exe,servicemodelreg.exe
+1,0,1,vbc.exe,unknown_process.exe => msbuild.exe => vbc.exe
+13,0,13,vbc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => vbc.exe
+1,0,1,vbc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => vbc.exe
+20,0,20,vbc.exe,unknown_process.exe => unknown_process.exe => vbc.exe
+50,0,50,vbc.exe,unknown_process.exe => vbc.exe
+13,0,13,vbc.exe,vbc.exe
+3,0,3,vbc.exe,unknown_process.exe => regasm.exe => unknown_process.exe => regasm.exe => vbc.exe
+4,0,4,vbc.exe,wscript.exe => unknown_process.exe => vbc.exe
+9,0,9,vbc.exe,unknown_process.exe => regasm.exe => vbc.exe
+1,0,1,vbc.exe,unknown_process.exe => aspnet_regbrowsers.exe => unknown_process.exe => aspnet_regbrowsers.exe => vbc.exe
+1,0,1,vbc.exe,vbc.exe => vbc.exe
+2,0,2,vbc.exe,winword.exe => svchost.exe => msbuild.exe => vbc.exe
+1,0,1,vbc.exe,excel.exe => unknown_process.exe => vbc.exe
+4,0,4,vbc.exe,unknown_process.exe => svchost.exe => vbc.exe
+3,0,3,vbc.exe,unknown_process.exe => caspol.exe => vbc.exe
+4,0,4,vbc.exe,unknown_process.exe => powershell.exe => unknown_process.exe => vbc.exe
+1,0,1,vbc.exe,unknown_process.exe => msbuild.exe => unknown_process.exe => msbuild.exe => vbc.exe
+1,0,1,trustedinstaller.exe,unknown_process.exe => unknown_process.exe => trustedinstaller.exe
+1,0,1,trustedinstaller.exe,unknown_process.exe => explorer.exe => trustedinstaller.exe
+1,0,1,trustedinstaller.exe,unknown_process.exe => trustedinstaller.exe
+1,0,1,winload.exe,winload.exe
+1,1,0,dismhost.exe,wscript.exe => dism.exe => dismhost.exe
+1,0,1,dismhost.exe,cmd.exe => cleanmgr.exe => dismhost.exe
+2,0,2,dismhost.exe,unknown_process.exe => cmd.exe => cleanmgr.exe => dismhost.exe
+2,0,2,dismhost.exe,unknown_process.exe => cmd.exe => pkgmgr.exe => dism.exe => dismhost.exe
+1,0,1,dismhost.exe,powershell.exe => cleanmgr.exe => dismhost.exe
+1,0,1,dismhost.exe,dismhost.exe
+1,0,1,sysprep.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => explorer.exe => sysprep.exe
+2,0,2,sysprep.exe,unknown_process.exe => svchost.exe => explorer.exe => sysprep.exe
+2,0,2,sysprep.exe,unknown_process.exe => unknown_process.tmp => explorer.exe => sysprep.exe
+1,0,1,mofcomp.exe,aspnet_regiis.exe => mofcomp.exe
+3,0,3,mofcomp.exe,mofcomp.exe
+1,0,1,mofcomp.exe,unknown_process.exe => mofcomp.exe
+2,2,0,unsecapp.exe,unsecapp.exe
+1,0,1,winmgmt.exe,unknown_process.exe => winmgmt.exe
+3,0,3,wmiadap.exe,unknown_process.exe => svchost.exe => wmiadap.exe
+1,0,1,wmiadap.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => svchost.exe => wmiadap.exe
+2,2,0,wmiadap.exe,excel.exe => wmiadap.exe
+1,0,1,wmiadap.exe,unknown_process.exe => explorer.exe => wmiadap.exe
+27,1,26,wmiadap.exe,wmiadap.exe
+4,1,3,wmiadap.exe,unknown_process.exe => unknown_process.exe => wmiadap.exe
+2,0,2,wmiadap.exe,unknown_process.exe => wmiadap.exe
+1,0,1,wmiadap.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => svchost.exe => wmiadap.exe
+1,0,1,wmiadap.exe,unknown_process.exe => svchost.exe => csrss.exe => wmiadap.exe
+1,0,1,wmiapsrv.exe,services.exe => wmiapsrv.exe
+2,0,2,wmiapsrv.exe,wmiapsrv.exe
+12,2,10,wmiprvse.exe,wmiprvse.exe
+1,0,1,wmiprvse.exe,unknown_process.exe => unknown_process.exe => wmiprvse.exe
+4,0,4,wmiprvse.exe,unknown_process.exe => rundll32.exe => wmiprvse.exe
+1,0,1,wmiprvse.exe,unknown_process.exe => unknown_process.exe => svchost.exe => wmiprvse.exe
+1,0,1,wmiprvse.exe,unknown_process.exe => wmiprvse.exe
+2,0,2,wmiprvse.exe,winword.exe => powershell.exe => unknown_process.exe => svchost.exe => wmiprvse.exe
+6,0,6,wmiprvse.exe,unknown_process.exe => svchost.exe => wmiprvse.exe
+1,0,1,wmiprvse.exe,unknown_process.exe => regsvr32.exe => wmiprvse.exe
+1,0,1,wmiprvse.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => wmiprvse.exe
+1,0,1,appidcertstorecheck.exe,unknown_process.exe => appidcertstorecheck.exe
+1,0,1,arp.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => arp.exe
+3,0,3,arp.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => arp.exe
+2,0,2,arp.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => arp.exe
+8,0,8,arp.exe,unknown_process.exe => arp.exe
+2,0,2,arp.exe,unknown_process.exe => unknown_process => arp.exe
+13,0,13,at.exe,unknown_process.exe => cmd.exe => at.exe
+2,0,2,attrib.exe,unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,setup.exe => cmd.exe => attrib.exe
+2,0,2,attrib.exe,wscript.exe => unknown_process.exe => wscript.exe => unknown_process.exe => attrib.exe
+4,0,4,attrib.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => attrib.exe
+3,0,3,attrib.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => unknown_process.exe => cmd.exe => attrib.exe
+2,0,2,attrib.exe,install.exe => cmd.exe => attrib.exe
+6,0,6,attrib.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => attrib.exe
+1,0,1,attrib.exe,install.exe => install.exe => unknown_process.exe => unknown_process.exe => attrib.exe
+15,0,15,attrib.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => attrib.exe
+2,0,2,attrib.exe,setup.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => attrib.exe
+550,0,550,attrib.exe,unknown_process.exe => attrib.exe
+5,0,5,attrib.exe,wscript.exe => cmd.exe => attrib.exe
+5,0,5,attrib.exe,cmd.exe => attrib.exe
+1,0,1,attrib.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => attrib.exe
+47,0,47,attrib.exe,unknown_process.exe => wscript.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,install.exe => unknown_process.tmp => attrib.exe
+4,0,4,attrib.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,setup.exe => unknown_process.tmp => attrib.exe
+2,0,2,attrib.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => attrib.exe
+4,0,4,attrib.exe,wscript.exe => unknown_process.exe => attrib.exe
+127,1,126,attrib.exe,unknown_process.exe => cmd.exe => attrib.exe
+11,0,11,attrib.exe,unknown_process.exe => unknown_process.exe => attrib.exe
+2,0,2,attrib.exe,unknown_process.exe => vbc.exe => unknown_process.exe => attrib.exe
+32,2,30,attrib.exe,unknown_process.exe => unknown_process.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,setup.exe => wscript.exe => cmd.exe => attrib.exe
+2,0,2,attrib.exe,setup.exe => unknown_process.exe => attrib.exe
+1,0,1,attrib.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,wscript.exe => cmd.exe => unknown_process.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => svchost.exe => wscript.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,onedrive.exe => attrib.exe
+1,0,1,attrib.exe,excel.exe => cmd.exe => attrib.exe
+1,0,1,attrib.exe,unknown_process.exe => svchost.exe => cmd.exe => attrib.exe
+11,0,11,attrib.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => attrib.exe
+3,0,3,audiodg.exe,unknown_process.exe => audiodg.exe
+2,0,2,audiodg.exe,unknown_process.exe => unknown_process.exe => explorer.exe => audiodg.exe
+1,1,0,audiodg.exe,audiodg.exe
+52,0,52,auditpol.exe,unknown_process.exe => cmd.exe => auditpol.exe
+10,0,10,bcdedit.exe,unknown_process.exe => cmd.exe => bcdedit.exe
+4,0,4,bcdedit.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => bcdedit.exe
+2,0,2,bcdedit.exe,unknown_process.exe => unknown_process.exe => explorer.exe => bcdedit.exe
+2,0,2,bcdedit.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => mshta.exe => cmd.exe => bcdedit.exe
+9,0,9,bcdedit.exe,unknown_process.exe => unknown_process.exe => cmd.exe => bcdedit.exe
+3,0,3,bcdedit.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => bcdedit.exe
+1,0,1,bcdedit.exe,bcdedit.exe
+2,0,2,bcdedit.exe,unknown_process.exe => explorer.exe => bcdedit.exe
+3,0,3,bcdedit.exe,unknown_process.exe => bcdedit.exe
+2,0,2,bcdedit.exe,unknown_process.exe => svchost.exe => cmd.exe => bcdedit.exe
+2,0,2,bcdedit.exe,osk.exe => osk.exe => osk.exe => mshta.exe => cmd.exe => bcdedit.exe
+1,0,1,bcdedit.exe,unknown_process.exe => unknown_process.exe => bcdedit.exe
+1,1,0,bootsect.exe,bootsect.exe
+55,0,55,cacls.exe,unknown_process.exe => cmd.exe => cacls.exe
+1,0,1,cacls.exe,unknown_process.exe => unknown_process.tmp => cacls.exe
+6,0,6,cacls.exe,cmd.exe => cacls.exe
+16,0,16,cacls.exe,wscript.exe => cmd.exe => cacls.exe
+216,0,216,cacls.exe,wscript.exe => wscript.exe => cmd.exe => cacls.exe
+37,0,37,cacls.exe,unknown_process.exe => cacls.exe
+23,0,23,cacls.exe,wscript.exe => wscript.exe => unknown_process.exe => cmd.exe => cacls.exe
+4,0,4,cacls.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => cacls.exe
+3,0,3,calc.exe,winword.exe => calc.exe
+5,0,5,calc.exe,unknown_process.exe => calc.exe
+1,0,1,calc.exe,calc.exe => calc.exe
+12,6,6,calc.exe,calc.exe
+1,0,1,calc.exe,unknown_process.exe => dllhost.exe => calc.exe
+1,0,1,calc.exe,unknown_process.exe => csrss.exe => calc.exe
+4,0,4,calc.exe,unknown_process.exe => unknown_process.exe => calc.exe
+1,0,1,calc.exe,iexplore.exe => iexplore.exe => calc.exe
+1,0,1,certenrollctrl.exe,unknown_process.exe => unknown_process.exe => certenrollctrl.exe => certenrollctrl.exe
+2,0,2,certenrollctrl.exe,unknown_process.exe => unknown_process.exe => certenrollctrl.exe
+1,1,0,certreq.exe,cmd.exe => certreq.exe
+2,0,2,charmap.exe,unknown_process.exe => charmap.exe
+4,4,0,chcp.com,install.exe => cmd.exe => chcp.com
+1,0,1,chcp.com,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => chcp.com
+1,0,1,chcp.com,unknown_process.exe => chcp.com
+3,0,3,chcp.com,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => chcp.com
+34,0,34,chcp.com,unknown_process.exe => cmd.exe => chcp.com
+2,0,2,chcp.com,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => chcp.com
+1,0,1,chcp.com,svchost.exe => svchost.exe => cmd.exe => cmd.exe => chcp.com
+5,0,5,chcp.com,unknown_process.exe => unknown_process.exe => cmd.exe => chcp.com
+3,0,3,chcp.com,unknown_process.exe => cmd.exe => cmd.exe => chcp.com
+1,0,1,chcp.com,wscript.exe => cmd.exe => chcp.com
+1,0,1,chcp.com,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => chcp.com
+1,0,1,chkdsk.exe,winword.exe => powershell.exe => unknown_process.exe => unknown_process.exe => explorer.exe => chkdsk.exe
+1,0,1,chkdsk.exe,unknown_process.exe => chkdsk.exe
+1,0,1,chkntfs.exe,unknown_process.exe => cmd.exe => chkntfs.exe
+1,0,1,chkntfs.exe,unknown_process.exe => unknown_process.exe => cmd.exe => chkntfs.exe
+1,0,1,choice.exe,unknown_process.exe => taskmgr.exe => unknown_process.exe => cmd.exe => choice.exe
+2,0,2,choice.exe,unknown_process.exe => unknown_process.exe => cmd.exe => choice.exe
+14,0,14,choice.exe,unknown_process.exe => cmd.exe => choice.exe
+1,0,1,cipher.exe,cipher.exe
+1,0,1,cipher.exe,unknown_process.exe => cipher.exe
+1,0,1,cleanmgr.exe,cmd.exe => cleanmgr.exe
+1,0,1,cleanmgr.exe,powershell.exe => cleanmgr.exe
+1,0,1,cleanmgr.exe,unknown_process.exe => cmd.exe => cleanmgr.exe
+1,1,0,cliconfg.exe,cliconfg.exe
+1,0,1,clip.exe,powershell.exe => clip.exe
+1,0,1,clip.exe,clip.exe
+8,0,8,clip.exe,excel.exe => cmd.exe => clip.exe
+1,0,1,clip.exe,unknown_process.exe => clip.exe
+3,0,3,cmd.exe,unknown_process.exe => cmd.exe => powershell.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process => unknown_process => cmd.exe
+6,0,6,cmd.exe,winword.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,wscript.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => vbc.exe => explorer.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => unknown_process.exe => unknown_process.tmp => cmd.exe
+1295,0,1295,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => taskmgr.exe => unknown_process.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => vbc.exe => unknown_process.exe => cmd.exe
+2,0,2,cmd.exe,install.exe => unknown_process.exe => wscript.exe => cmd.exe
+3,0,3,cmd.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => sdclt.exe => cmd.exe
+14,0,14,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,wscript.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+5,0,5,cmd.exe,iexplore.exe => iexplore.exe => cmd.exe
+1,0,1,cmd.exe,cmd.exe => unknown_process.exe => cmd.exe => cmd.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => svchost.exe => explorer.exe => sysprep.exe => unknown_process.tmp => cmd.exe
+1,0,1,cmd.exe,cmd.exe => unknown_process.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => explorer.exe => msdt.exe => cmd.exe
+4,0,4,cmd.exe,unknown_process.exe => unknown_process.tmp => unknown_process.tmp => cmd.exe
+10,0,10,cmd.exe,unknown_process.exe => svchost.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => unknown_process.exe => regasm.exe => explorer.exe => spoolsv.exe => cmd.exe
+1,0,1,cmd.exe,wscript.exe => unknown_process.exe => unknown_process.exe => explorer.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => setup.exe => unknown_process.exe => setup.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => winlogon.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => dwm.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => cmmon32.exe => cmd.exe
+18,0,18,cmd.exe,excel.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => ipconfig.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => wuauclt.exe => cmd.exe
+26,0,26,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,cmstp.exe => regsvr32.exe => cmd.exe
+3,0,3,cmd.exe,setup.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,explorer.exe => wscript.exe => cmd.exe
+8,0,8,cmd.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe => powershell.exe => cmd.exe
+1,0,1,cmd.exe,excel.exe => powershell.exe => unknown_process.exe => unknown_process.exe => explorer.exe => cmmon32.exe => cmd.exe
+4,0,4,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,excel.exe => cmd.exe => wscript.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe
+3,0,3,cmd.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,wscript.exe => wscript.exe => eventvwr.exe => cmd.exe
+23,0,23,cmd.exe,unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => wscript.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.tmp => wscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => dwm.exe => cmd.exe
+2,0,2,cmd.exe,iexplore.exe => iexplore.exe => cmd.exe => wscript.exe => cmd.exe
+363,0,363,cmd.exe,winword.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cvtres.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => spoolsv.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => eventvwr.exe => unknown_process => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => ipconfig.exe => cmd.exe
+6,0,6,cmd.exe,wscript.exe => powershell.exe => cmd.exe
+2,0,2,cmd.exe,setup.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => wscript.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => raserver.exe => cmd.exe
+373,0,373,cmd.exe,wscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => netstat.exe => cmd.exe
+49,0,49,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+3135,12,3123,cmd.exe,unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.vir_exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => unknown_process.gif => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe
+31,0,31,cmd.exe,powershell.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => wscript.exe => cmd.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => compmgmtlauncher.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => eventvwr.exe => cmd.exe
+38,0,38,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe
+6,0,6,cmd.exe,wscript.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => wscript.exe => cmd.exe
+7,0,7,cmd.exe,install.exe => cmd.exe
+2,0,2,cmd.exe,winword.exe => svchost.exe => cmd.exe
+250,0,250,cmd.exe,cmd.exe => cmd.exe
+6,0,6,cmd.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => cmd.exe => cmd.exe
+7,0,7,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => dllhost.exe => cmd.exe
+1,0,1,cmd.exe,powershell.exe => cmd.exe => cmd.exe
+4,0,4,cmd.exe,unknown_process.exe => explorer.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,wscript.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,winword.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => explorer.exe => cscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe => powershell.exe => cmd.exe
+5,0,5,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,dllhost.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.tmp => install.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.tmp => unknown_process.tmp => explorer.exe => unknown_process.exe => cmd.exe
+8,0,8,cmd.exe,wscript.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => notepad.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,osk.exe => osk.exe => cmd.exe
+1,0,1,cmd.exe,excel.exe => cmd.exe => wscript.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+17,0,17,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => cmd.exe
+10,0,10,cmd.exe,install.exe => unknown_process.exe => cmd.exe
+17,0,17,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe
+2,0,2,cmd.exe,winlogon.exe => unknown_process.exe => services.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => wscript.exe => cmd.exe
+224,0,224,cmd.exe,wscript.exe => wscript.exe => cmd.exe
+2,0,2,cmd.exe,rundll32.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => systray.exe => cmd.exe
+1,0,1,cmd.exe,narrator.exe => cmd.exe
+3,0,3,cmd.exe,winword.exe => powershell.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => powershell.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => applaunch.exe => cmd.exe
+8,0,8,cmd.exe,unknown_process.exe => explorer.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => mstsc.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => wscript.exe => cmd.exe
+36,0,36,cmd.exe,setup.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => msbuild.exe => cmd.exe
+4,0,4,cmd.exe,wscript.exe => cmd.exe => cmd.exe
+104,0,104,cmd.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe
+3,0,3,cmd.exe,svchost.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,wscript.exe => unknown_process.exe => wscript.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => msiexec.exe => cmd.exe
+7,0,7,cmd.exe,unknown_process.exe => vbc.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => powershell.exe => unknown_process.exe => unknown_process.exe => explorer.exe => unknown_process.exe => cmd.exe
+9,0,9,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,shellexperiencehost.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => dllhost.exe => cmd.exe
+3,0,3,cmd.exe,wscript.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+5,0,5,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => notepad.exe => notepad.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe
+2,0,2,cmd.exe,mspub.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => explorer.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process => wscript.exe => cmd.exe
+2,0,2,cmd.exe,winword.exe => svchost.exe => unknown_process.tmp => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => systray.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe
+9,0,9,cmd.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,svchost.exe => svchost.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => vbc.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+11,0,11,cmd.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => cmd.exe
+110,0,110,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe => unknown_process.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => unknown_process.vbe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe => csrss.exe => cmd.exe
+408,0,408,cmd.exe,cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => wscript.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+14,0,14,cmd.exe,svchost.exe => cmd.exe
+5,0,5,cmd.exe,unknown_process.exe => rundll32.exe => cmd.exe
+11,0,11,cmd.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => unknown_process.tmp => cmd.exe => cmd.exe
+7,0,7,cmd.exe,unknown_process.exe => cmd.exe => cmd.exe => cmd.exe
+36,0,36,cmd.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => powershell.exe => unknown_process.exe => unknown_process.exe => explorer.exe => chkdsk.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => cscript.exe => cmd.exe
+8,0,8,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.xyz => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe
+2,0,2,cmd.exe,excel.exe => powershell.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process => wscript.exe => cmd.exe => csrss.exe => cmd.exe
+20,0,20,cmd.exe,winword.exe => cmd.exe => unknown_process.exe => unknown_process.tmp => unknown_process.tmp => cmd.exe
+1,0,1,cmd.exe,cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe
+8,0,8,cmd.exe,cmd.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => wscript.exe => regsvr32.exe => rundll32.exe => cmd.exe
+4,0,4,cmd.exe,csrss.exe => cmd.exe
+7,0,7,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => audiodg.exe => cmd.exe
+9,0,9,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => svchost.exe => svchost.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => regsvr32.exe => cmd.exe
+5,0,5,cmd.exe,osk.exe => osk.exe => osk.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => vbc.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe
+4,0,4,cmd.exe,unknown_process.exe => iexplore.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => mshta.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => unknown_process.exe => unknown_process.exe => explorer.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,cmd.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe
+5,0,5,cmd.exe,setup.exe => setup.exe => unknown_process.tmp => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => csrss.exe => cmd.exe
+13,0,13,cmd.exe,unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,cmd.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process => cmd.exe
+3,0,3,cmd.exe,excel.exe => cmd.exe => cmd.exe => cmd.exe
+132,0,132,cmd.exe,excel.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => svchost.exe => explorer.exe => colorcpl.exe => cmd.exe
+2,0,2,cmd.exe,winlogon.exe => unknown_process.exe => cmd.exe
+6,0,6,cmd.exe,unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => svchost.exe => cmd.exe
+2,0,2,cmd.exe,wscript.exe => unknown_process.scr => cmd.exe
+6,0,6,cmd.exe,setup.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+1215,0,1215,cmd.exe,winword.exe => cmd.exe
+1289,2,1287,cmd.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe
+10,0,10,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => explorer.exe => netstat.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.com => unknown_process.exe => unknown_process.exe => cmd.exe
+13,0,13,cmd.exe,excel.exe => cmd.exe => wscript.exe => cmd.exe
+673,0,673,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => explorer.exe => msiexec.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => setup.exe => cmd.exe
+3,0,3,cmd.exe,wscript.exe => unknown_process.exe => wscript.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => msdt.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => cmd.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,winword.exe => powershell.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => nbtstat.exe => cmd.exe
+2,0,2,cmd.exe,wscript.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => cmd.exe
+12,0,12,cmd.exe,unknown_process.exe => unknown_process.xyz => cmd.exe
+1,0,1,cmd.exe,wscript.exe => cmd.exe => powershell.exe => wscript.exe => cmd.exe
+6,0,6,cmd.exe,unknown_process => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => taskmgr.exe => unknown_process.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => taskmgr.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => netsh.exe => cmd.exe
+115,15,100,cmd.exe,unknown_process.exe => unknown_process.tmp => cmd.exe
+4,0,4,cmd.exe,wscript.exe => unknown_process.exe => vbc.exe => cmd.exe
+9,0,9,cmd.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => cmd.exe
+2,0,2,cmd.exe,setup.exe => unknown_process.exe => wscript.exe => cmd.exe
+10,0,10,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe
+2290,3,2287,cmd.exe,unknown_process.exe => unknown_process.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => notepad.exe => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => unknown_process.tmp => explorer.exe => sysprep.exe => cmd.exe
+5,0,5,cmd.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => mshta.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => setup.exe => cmd.exe
+23,0,23,cmd.exe,wscript.exe => wscript.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exedis => cmd.exe
+3,0,3,cmd.exe,wscript.exe => unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,explorer.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => cmd.exe
+15,0,15,cmd.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe
+8,0,8,cmd.exe,setup.exe => unknown_process.tmp => cmd.exe
+2,0,2,cmd.exe,winword.exe => powershell.exe => cmd.exe
+4,0,4,cmd.exe,unknown_process.exe => regasm.exe => cmd.exe
+206,0,206,cmd.exe,winword.exe => cmd.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe
+2,0,2,cmd.exe,unknown_process.exe => unknown_process.exe => explorer.exe => colorcpl.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe => msdt.exe => cmd.exe
+4,0,4,cmd.exe,cmd.exe => unknown_process.exe => cmd.exe
+12,0,12,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,cmd.exe => unknown_process.exe => cmd.exe => cmd.exe => cmd.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process => unknown_process => wscript.exe => cmd.exe
+2,0,2,cmd.exe,setup.exe => setup.exe => unknown_process.exe => cmd.exe
+5,0,5,cmd.exe,winlogon.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe => cscript.exe => cmd.exe
+4,0,4,cmd.exe,wscript.exe => cmd.exe => unknown_process.exe => cmd.exe
+6,0,6,cmd.exe,unknown_process.exe => wscript.exe => cmd.exe => taskeng.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => explorer.exe => control.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => wscript.exe => unknown_process.exe => unknown_process.xyz => cmd.exe
+1,0,1,cmd.exe,spoolsv.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => regasm.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.com_implementation_id_maps__source_0c2aa494a69b1c49bba9062d587d4ebd11161ab6-2236-125-15324320 => unknown_process.exe => cmd.exe
+13,0,13,cmd.exe,unknown_process.exe => cmd.exe => svchost.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => netstat.exe => cmd.exe
+2,0,2,cmd.exe,wscript.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => svchost.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,setup.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+3,0,3,cmd.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe
+1,0,1,cmd.exe,unknown_process.exe => unknown_process.pif => unknown_process.exe => cmd.exe
+49,0,49,cmd.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe
+1,0,1,cmmon32.exe,unknown_process.exe => unknown_process.exe => explorer.exe => cmmon32.exe
+1,0,1,cmmon32.exe,excel.exe => powershell.exe => unknown_process.exe => unknown_process.exe => explorer.exe => cmmon32.exe
+3,0,3,colorcpl.exe,unknown_process.exe => unknown_process.exe => explorer.exe => colorcpl.exe
+1,0,1,colorcpl.exe,unknown_process.exe => svchost.exe => explorer.exe => colorcpl.exe
+1,0,1,comp.exe,unknown_process.exe => wevtutil.exe => comp.exe
+1,0,1,compattelrunner.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => services.exe => compattelrunner.exe
+1,0,1,compattelrunner.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => services.exe => compattelrunner.exe => compattelrunner.exe
+4,0,4,compattelrunner.exe,compattelrunner.exe
+1,0,1,compmgmtlauncher.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => compmgmtlauncher.exe
+2,0,2,conhost.exe,winword.exe => unknown_process.gif => cmd.exe => conhost.exe
+10,0,10,conhost.exe,unknown_process.exe => cmd.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => vssadmin.exe => conhost.exe
+1,0,1,conhost.exe,winword.exe => powershell.exe => unknown_process.exe => control.exe => explorer.exe => unknown_process.exe => svchost.exe => conhost.exe
+8,0,8,conhost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => conhost.exe
+2,0,2,conhost.exe,unknown_process.exe => regsvr32.exe => csrss.exe => conhost.exe
+1,0,1,conhost.exe,excel.exe => cmd.exe => powershell.exe => conhost.exe
+3,0,3,conhost.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => conhost.exe
+1,0,1,conhost.exe,inetinfo.exe => unknown_process.tmp => inetinfo.exe => iexplore.exe => conhost.exe
+2,0,2,conhost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => conhost.exe => conhost.exe
+266,91,175,conhost.exe,unknown_process.exe => conhost.exe
+3,0,3,conhost.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => conhost.exe
+3,0,3,conhost.exe,unknown_process.exe => winlogon.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => csrss.exe => conhost.exe
+3,0,3,conhost.exe,unknown_process.exe => winlogon.exe => svchost.exe => conhost.exe
+15,0,15,conhost.exe,wscript.exe => conhost.exe
+3,0,3,conhost.exe,excel.exe => conhost.exe
+2,0,2,conhost.exe,unknown_process.exe => dwm.exe => conhost.exe
+4,0,4,conhost.exe,unknown_process.exe => unknown_process.exe => taskkill.exe => conhost.exe
+90,0,90,conhost.exe,conhost.exe
+29,1,28,conhost.exe,unknown_process.exe => unknown_process.exe => conhost.exe
+4,0,4,conhost.exe,unknown_process => unknown_process.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => cscript.exe => conhost.exe
+13,0,13,conhost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => conhost.exe
+3,0,3,conhost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => conhost.exe
+2,0,2,conhost.exe,unknown_process.exe => regsvr32.exe => conhost.exe
+6,0,6,conhost.exe,unknown_process.exe => svchost.exe => conhost.exe
+5,0,5,conhost.exe,unknown_process.exe => unknown_process.exe => dwm.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => taskmgr.exe => conhost.exe
+13,0,13,conhost.exe,iexplore.exe => conhost.exe
+4,0,4,conhost.exe,unknown_process.exe => nslookup.exe => conhost.exe
+4,0,4,conhost.exe,unknown_process.exe => unknown_process.exe => cmd.exe => conhost.exe
+2,0,2,conhost.exe,powershell.exe => conhost.exe
+1,0,1,conhost.exe,setup.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => conhost.exe
+3,0,3,conhost.exe,winword.exe => powershell.exe => unknown_process.exe => explorer.exe => unknown_process.exe => svchost.exe => conhost.exe
+2,0,2,conhost.exe,unknown_process => unknown_process.exe => unknown_process.exe => conhost.exe
+1,0,1,conhost.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => explorer.exe => unknown_process.exe => svchost.exe => conhost.exe
+3,0,3,conhost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe => dwm.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => explorer.exe => unknown_process.exe => svchost.exe => conhost.exe
+1,0,1,conhost.exe,iexplore.exe => iexplore.exe => conhost.exe
+2,0,2,conhost.exe,msiexec.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => conhost.exe
+2,0,2,conhost.exe,unknown_process.exe => unknown_process.tmp => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => unknown_process.tmp => sc.exe => conhost.exe
+1,0,1,conhost.exe,unknown_process.exe => control.exe => explorer.exe => unknown_process.exe => svchost.exe => conhost.exe
+3,0,3,csrss.exe,unknown_process.exe => unknown_process.exe => csrss.exe
+3,0,3,csrss.exe,unknown_process => wscript.exe => cmd.exe => csrss.exe
+2,0,2,csrss.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => csrss.exe
+14,0,14,csrss.exe,unknown_process.exe => csrss.exe
+2,0,2,csrss.exe,csrss.exe => csrss.exe
+4,0,4,csrss.exe,unknown_process.exe => regsvr32.exe => csrss.exe
+10,0,10,csrss.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe
+1,0,1,csrss.exe,unknown_process => unknown_process => wscript.exe => cmd.exe => csrss.exe
+2,0,2,csrss.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => csrss.exe
+4,0,4,csrss.exe,unknown_process.exe => svchost.exe => csrss.exe
+1,0,1,csrss.exe,unknown_process.exe => notepad.exe => wscript.exe => cmd.exe => csrss.exe
+2,0,2,csrss.exe,unknown_process.exe => wscript.exe => cmd.exe => csrss.exe
+48,0,48,csrss.exe,csrss.exe
+9,0,9,csrss.exe,unknown_process.exe => csrss.exe => calc.exe => csrss.exe
+1,0,1,ctfmon.exe,unknown_process.exe => notepad.exe => ctfmon.exe
+3,0,3,ctfmon.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.exe => ctfmon.exe
+3,0,3,ctfmon.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.exe => ctfmon.exe
+3,0,3,ctfmon.exe,unknown_process.exe => ctfmon.exe
+1,1,0,ctfmon.exe,ctfmon.exe
+1,0,1,ctfmon.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => ctfmon.exe
+2,0,2,ctfmon.exe,unknown_process.exe => explorer.exe => ctfmon.exe
+1,1,0,ddodiag.exe,ddodiag.exe
+3,0,3,defrag.exe,winword.exe => wscript.exe => cmd.exe => defrag.exe
+1,1,0,dfrgui.exe,dfrgui.exe
+1,0,1,diskpart.exe,unknown_process.exe => cmd.exe => cmd.exe => diskpart.exe
+1,1,0,dism.exe,wscript.exe => dism.exe
+3,0,3,dism.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe => dism.exe
+1,0,1,dism.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe => dism.exe
+2,0,2,dism.exe,cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe => dism.exe
+1,0,1,dism.exe,unknown_process.exe => cmd.exe => pkgmgr.exe => dism.exe
+1,0,1,dllhost.exe,wscript.exe => unknown_process => dllhost.exe
+1,0,1,dllhost.exe,unknown_process.exe => regsvr32.exe => svchost.exe => dllhost.exe
+1,0,1,dllhost.exe,unknown_process.exe => unknown_process.exe => dllhost.exe => dllhost.exe
+44,0,44,dllhost.exe,unknown_process.exe => dllhost.exe
+1,0,1,dllhost.exe,setup.exe => dllhost.exe
+2,0,2,dllhost.exe,unknown_process.exe => unknown_process.exe => dllhost.exe
+1,0,1,dllhost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => dllhost.exe
+1,0,1,dllhost.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => dllhost.exe
+4,0,4,dllhost.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => svchost.exe => dllhost.exe
+1,0,1,dllhost.exe,unknown_process.exe => csrss.exe => dllhost.exe
+7,0,7,dllhost.exe,unknown_process.exe => svchost.exe => dllhost.exe
+1,0,1,dllhost.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => svchost.exe => dllhost.exe
+1,0,1,dllhost.exe,unknown_process.exe => svchost.exe => csrss.exe => dllhost.exe
+1,0,1,dllhost.exe,mstsc.exe => dllhost.exe
+1,0,1,dllhost.exe,wscript.exe => cmd.exe => unknown_process.exe => dllhost.exe
+31,0,31,dllhost.exe,dllhost.exe
+1,0,1,dllhst3g.exe,dllhst3g.exe
+1,0,1,dmclient.exe,dmclient.exe
+2,0,2,driverquery.exe,unknown_process.exe => driverquery.exe
+1,1,0,dvdplay.exe,dvdplay.exe
+11,0,11,dwm.exe,unknown_process.exe => unknown_process.exe => dwm.exe
+2,0,2,dwm.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => dwm.exe
+7,0,7,dwm.exe,unknown_process.exe => unknown_process.exe => explorer.exe => dwm.exe
+25,0,25,dwm.exe,unknown_process.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => control.exe => explorer.exe => unknown_process.exe => svchost.exe => dwm.exe
+1,0,1,dwm.exe,powershell.exe => powershell.exe => unknown_process.exe => svchost.exe => dwm.exe
+4,0,4,dwm.exe,unknown_process.exe => explorer.exe => dwm.exe
+1,0,1,dwm.exe,winword.exe => powershell.exe => unknown_process.exe => control.exe => explorer.exe => unknown_process.exe => svchost.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process => unknown_process.exe => unknown_process.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => dwm.exe
+1,0,1,dwm.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => unknown_process.exe => csrss.exe => dwm.exe
+1,0,1,dwm.exe,winword.exe => powershell.exe => unknown_process.exe => svchost.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => explorer.exe => unknown_process.exe => svchost.exe => dwm.exe
+10,0,10,dwm.exe,unknown_process.exe => svchost.exe => dwm.exe
+43,0,43,dwm.exe,dwm.exe
+1,0,1,dwm.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe => dwm.exe
+3,0,3,dwm.exe,winword.exe => powershell.exe => unknown_process.exe => explorer.exe => unknown_process.exe => svchost.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => winver.exe => explorer.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => unknown_process.exe => svchost.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => winlogon.exe => svchost.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process => unknown_process.exe => dwm.exe
+1,0,1,dwm.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => explorer.exe => unknown_process.exe => svchost.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => winlogon.exe => dwm.exe
+2,0,2,dwm.exe,unknown_process.exe => regsvr32.exe => dwm.exe
+1,0,1,dwm.exe,unknown_process.exe => rundll32.exe => powershell.exe => explorer.exe => dwm.exe
+1,0,1,dxdiag.exe,unknown_process.exe => dxdiag.exe
+1,0,1,dxdiag.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => dxdiag.exe
+1,1,0,eventcreate.exe,unknown_process.exe => unknown_process.exe => setup.exe => eventcreate.exe
+1,1,0,eventcreate.exe,setup.exe => eventcreate.exe
+1,0,1,eventcreate.exe,unknown_process.exe => eventcreate.exe
+1,0,1,eventvwr.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => eventvwr.exe
+1,0,1,eventvwr.exe,winword.exe => eventvwr.exe
+8,0,8,eventvwr.exe,wscript.exe => eventvwr.exe
+1,0,1,eventvwr.exe,wscript.exe => wscript.exe => eventvwr.exe
+1,0,1,eventvwr.exe,unknown_process.exe => unknown_process.exe => eventvwr.exe
+3,0,3,eventvwr.exe,unknown_process.exe => eventvwr.exe
+1,0,1,fc.exe,unknown_process.exe => cmd.exe => fc.exe
+146,0,146,find.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => find.exe
+4,0,4,find.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => find.exe
+2,0,2,find.exe,unknown_process.exe => wscript.exe => cmd.exe => cmd.exe => find.exe
+2,0,2,find.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => find.exe
+4,0,4,find.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => find.exe
+7,0,7,find.exe,excel.exe => powershell.exe => unknown_process.exe => cmd.exe => find.exe
+2,0,2,find.exe,cmd.exe => find.exe
+22,0,22,find.exe,unknown_process.exe => unknown_process.exe => cmd.exe => find.exe
+10,0,10,find.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => find.exe
+7,0,7,find.exe,find.exe
+6,0,6,find.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => cmd.exe => cmd.exe => find.exe
+2,0,2,find.exe,unknown_process.exe => cmd.exe => cmd.exe => find.exe
+1,0,1,find.exe,unknown_process.exe => wscript.exe => cmd.exe => find.exe
+6,0,6,find.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => find.exe
+4,0,4,find.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => find.exe
+358,0,358,find.exe,unknown_process.exe => cmd.exe => find.exe
+1,0,1,find.exe,cmd.exe => cmd.exe => find.exe
+4,0,4,find.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => find.exe
+1,0,1,fltmc.exe,unknown_process.exe => unknown_process.tmp => fltmc.exe
+2,0,2,fltmc.exe,unknown_process.exe => cmd.exe => fltmc.exe
+1,0,1,fontdrvhost.exe,unknown_process.exe => fontdrvhost.exe
+33,0,33,format.com,unknown_process.exe => cmd.exe => format.com
+1,0,1,format.com,cmd.exe => cmd.exe => format.com
+10,0,10,fsutil.exe,unknown_process.exe => cmd.exe => wscript.exe => cmd.exe => fsutil.exe
+1,0,1,fsutil.exe,unknown_process.exe => cmd.exe => fsutil.exe
+17,0,17,ftp.exe,setup.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe => ftp.exe
+4,0,4,ftp.exe,cmd.exe => ftp.exe
+4,4,0,getmac.exe,cmd.exe => getmac.exe
+1,0,1,getmac.exe,unknown_process.exe => ping.exe => getmac.exe
+4,0,4,getmac.exe,unknown_process.exe => unknown_process.exe => getmac.exe
+1,0,1,gpupdate.exe,unknown_process.exe => gpupdate.exe
+1,0,1,grpconv.exe,unknown_process.exe => unknown_process.tmp => install.exe => cmd.exe => rundll32.exe => runonce.exe => grpconv.exe
+1,0,1,grpconv.exe,unknown_process.exe => infdefaultinstall.exe => runonce.exe => grpconv.exe
+1,0,1,grpconv.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => rundll32.exe => runonce.exe => grpconv.exe
+1,0,1,grpconv.exe,unknown_process.exe => rundll32.exe => runonce.exe => grpconv.exe
+2,0,2,help.exe,cmd.exe => cmd.exe => help.exe
+1,0,1,help.exe,unknown_process.exe => unknown_process.exe => explorer.exe => help.exe
+1,0,1,help.exe,help.exe
+1,0,1,hostname.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => hostname.exe
+5,0,5,hostname.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => unknown_process.exe => cmd.exe => hostname.exe
+1,0,1,hostname.exe,excel.exe => cmd.exe => hostname.exe
+5,0,5,hostname.exe,unknown_process.exe => unknown_process.exe => cmd.exe => hostname.exe
+1,0,1,hostname.exe,unknown_process.exe => regasm.exe => unknown_process.exe => cmd.exe => hostname.exe
+1,0,1,hostname.exe,unknown_process.exe => svchost.exe => cmd.exe => hostname.exe
+2,0,2,hostname.exe,unknown_process.exe => cmd.exe => hostname.exe
+2,0,2,hostname.exe,unknown_process.exe => hostname.exe
+1,1,0,hostname.exe,hostname.exe
+24,0,24,icacls.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => icacls.exe
+1,0,1,icacls.exe,unknown_process.exe => unknown_process.tmp => icacls.exe
+2,0,2,icacls.exe,wscript.exe => unknown_process.exe => vbc.exe => cmd.exe => icacls.exe
+1,0,1,icacls.exe,wscript.exe => cmd.exe => unknown_process.exe => cmd.exe => icacls.exe
+1,0,1,icacls.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => icacls.exe
+5,0,5,icacls.exe,unknown_process.exe => unknown_process.exe => cmd.exe => icacls.exe
+4,0,4,icacls.exe,wscript.exe => cmd.exe => unknown_process.exe => icacls.exe
+10,0,10,icacls.exe,svchost.exe => cmd.exe => icacls.exe
+2,0,2,icacls.exe,unknown_process.exe => unknown_process.tmp => explorer.exe => sysprep.exe => cmd.exe => icacls.exe
+25,1,24,icacls.exe,unknown_process.exe => icacls.exe
+18,0,18,icacls.exe,unknown_process.exe => unknown_process => icacls.exe
+1,0,1,icacls.exe,unknown_process.exe => cmd.exe => unknown_process.exe => icacls.exe
+56,0,56,icacls.exe,unknown_process.exe => unknown_process.exe => icacls.exe
+1,0,1,icacls.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => icacls.exe
+11,0,11,icacls.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => icacls.exe
+5,0,5,icacls.exe,unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => svchost.exe => cmd.exe => icacls.exe
+49,0,49,icacls.exe,unknown_process.exe => cmd.exe => icacls.exe
+1,0,1,icacls.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => icacls.exe
+6,0,6,icacls.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => icacls.exe
+2,0,2,ipconfig.exe,unknown_process.exe => unknown_process.exe => explorer.exe => ipconfig.exe
+4,0,4,ipconfig.exe,unknown_process.exe => unknown_process.exe => ipconfig.exe
+1,0,1,ipconfig.exe,unknown_process.exe => wscript.exe => cmd.exe => cmd.exe => ipconfig.exe
+1,1,0,ipconfig.exe,wscript.exe => cmd.exe => ipconfig.exe
+3,0,3,ipconfig.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => ipconfig.exe
+15,0,15,ipconfig.exe,unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe => ipconfig.exe
+3,0,3,ipconfig.exe,unknown_process.exe => unknown_process.exe => cmd.exe => ipconfig.exe
+2,0,2,ipconfig.exe,unknown_process.exe => wscript.exe => cmd.exe => powershell.exe => ipconfig.exe
+14,0,14,ipconfig.exe,unknown_process.exe => cmd.exe => ipconfig.exe
+1,0,1,ipconfig.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => ipconfig.exe
+9,0,9,ipconfig.exe,unknown_process.exe => ipconfig.exe
+1,0,1,iscsicli.exe,unknown_process.exe => stikynot.exe => iscsicli.exe
+2,0,2,ksetup.exe,unknown_process.exe => ksetup.exe
+2,2,0,label.exe,label.exe
+8,0,8,lodctr.exe,lodctr.exe
+1,0,1,logman.exe,mstsc.exe => logman.exe
+1,0,1,lsass.exe,unknown_process.exe => winlogon.exe => svchost.exe => lsass.exe
+1,0,1,lsass.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => lsass.exe
+1,0,1,lsass.exe,unknown_process.exe => unknown_process.exe => svchost.exe => lsass.exe
+12,0,12,lsass.exe,unknown_process.exe => lsass.exe
+3,0,3,lsass.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => lsass.exe
+1,0,1,lsass.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => lsass.exe
+49,0,49,lsass.exe,lsass.exe
+1,0,1,lsass.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => lsass.exe
+4,0,4,lsass.exe,unknown_process.exe => unknown_process.exe => lsass.exe
+2,0,2,lsass.exe,unknown_process.exe => regsvr32.exe => lsass.exe
+1,0,1,lsass.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => lsass.exe
+4,0,4,manage-bde.exe,unknown_process.exe => unknown_process.exe => cmd.exe => manage-bde.exe
+6,0,6,manage-bde.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => manage-bde.exe
+1,0,1,mmc.exe,unknown_process.exe => cmd.exe => mmc.exe
+2,0,2,mobsync.exe,unknown_process.exe => cmd.exe => mobsync.exe
+9,9,0,mode.com,cmd.exe => mode.com
+1,0,1,mode.com,unknown_process.exe => taskmgr.exe => unknown_process.exe => cmd.exe => cmd.exe => mode.com
+2,0,2,mode.com,csrss.exe => cmd.exe => mode.com
+43,0,43,mode.com,unknown_process.exe => cmd.exe => mode.com
+9,0,9,mode.com,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => mode.com
+4,0,4,mode.com,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => mode.com
+5,0,5,mode.com,unknown_process.exe => unknown_process.exe => cmd.exe => mode.com
+4,0,4,mode.com,unknown_process.exe => unknown_process.tmp => cmd.exe => mode.com
+4,0,4,mode.com,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => mode.com
+2,0,2,mode.com,unknown_process.exe => cmd.exe => cmd.exe => mode.com
+1,0,1,mode.com,unknown_process.vir_exe => cmd.exe => mode.com
+1,0,1,mode.com,unknown_process.exe => taskmgr.exe => unknown_process.exe => unknown_process.exe => cmd.exe => mode.com
+6,0,6,mode.com,excel.exe => cmd.exe => mode.com
+1,0,1,mode.com,dllhost.exe => cmd.exe => mode.com
+4,0,4,more.com,unknown_process.exe => unknown_process.exe => cmd.exe => more.com
+1,0,1,more.com,unknown_process.exe => more.com
+1,1,0,mpsigstub.exe,mpsigstub.exe
+1,0,1,mrt.exe,mrt.exe
+1,1,0,mrt.exe,unknown_process.exe => mrt.exe
+1,0,1,msdtc.exe,msdtc.exe
+3,0,3,msfeedssync.exe,unknown_process.exe => unknown_process.exe => msfeedssync.exe
+2,2,0,msg.exe,cmd.exe => msg.exe
+2,0,2,mspaint.exe,unknown_process.exe => svchost.exe => mspaint.exe
+1,0,1,mspaint.exe,unknown_process.exe => mspaint.exe
+1,0,1,msra.exe,msra.exe
+4,0,4,mstsc.exe,mstsc.exe
+2,0,2,mstsc.exe,unknown_process.exe => unknown_process.exe => explorer.exe => mstsc.exe
+1,0,1,mystify.scr,unknown_process.exe => rundll32.exe => mystify.scr
+1,0,1,narrator.exe,narrator.exe
+1,0,1,nbtstat.exe,unknown_process.exe => unknown_process.exe => explorer.exe => nbtstat.exe
+2,0,2,net.exe,setup.exe => unknown_process.tmp => cmd.exe => net.exe
+63,0,63,net.exe,unknown_process.exe => net.exe
+2,0,2,net.exe,setup.exe => setup.exe => unknown_process.tmp => cmd.exe => net.exe
+4,0,4,net.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => net.exe
+7,0,7,net.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => net.exe
+1,0,1,net.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => net.exe
+2,0,2,net.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => net.exe
+7,2,5,net.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => net.exe
+10,0,10,net.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => net.exe
+2,0,2,net.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => net.exe
+16,0,16,net.exe,unknown_process.exe => wscript.exe => net.exe
+2,0,2,net.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => net.exe
+54,0,54,net.exe,unknown_process.exe => unknown_process.exe => cmd.exe => net.exe
+1,0,1,net.exe,unknown_process.exe => unknown_process.exe => services.exe => net.exe
+3,0,3,net.exe,unknown_process.exe => mshta.exe => cmd.exe => net.exe
+1,0,1,net.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe => net.exe
+1,0,1,net.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => net.exe
+4,0,4,net.exe,unknown_process.exe => unknown_process.xyz => cmd.exe => net.exe
+35,0,35,net.exe,unknown_process.exe => unknown_process.tmp => net.exe
+1,0,1,net.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => net.exe
+11,0,11,net.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe => net.exe
+2,0,2,net.exe,unknown_process.1532508752ga_cndirect_downloadg => wscript.exe => unknown_process.exe => mshta.exe => net.exe
+2,0,2,net.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => net.exe
+1,1,0,net.exe,install.exe => cmd.exe => net.exe
+2,0,2,net.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => net.exe
+17,0,17,net.exe,unknown_process.exe => unknown_process.exe => net.exe
+2,0,2,net.exe,svchost.exe => svchost.exe => cmd.exe => cmd.exe => net.exe
+1,0,1,net.exe,unknown_process.exe => cmd.exe => powershell.exe => powershell.exe => net.exe
+1,0,1,net.exe,unknown_process.exe => mshta.exe => wscript.exe => net.exe
+3,0,3,net.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => net.exe
+2,0,2,net.exe,unknown_process.exe => unknown_process => net.exe
+36,36,0,net.exe,cmd.exe => net.exe
+6,0,6,net.exe,unknown_process.exe => svchost.exe => net.exe
+18,0,18,net.exe,net.exe
+185,2,183,net.exe,unknown_process.exe => cmd.exe => net.exe
+7,2,5,net1.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => net.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => cmd.exe => powershell.exe => powershell.exe => net.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => net.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => mshta.exe => wscript.exe => net.exe => net1.exe
+11,0,11,net1.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe => net.exe => net1.exe
+2,0,2,net1.exe,svchost.exe => svchost.exe => cmd.exe => cmd.exe => net.exe => net1.exe
+17,0,17,net1.exe,unknown_process.exe => unknown_process.exe => net.exe => net1.exe
+2,0,2,net1.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => net.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => wscript.exe => net.exe => net1.exe
+3,0,3,net1.exe,net.exe => net1.exe
+4,0,4,net1.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => net.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => vssadmin.exe => net1.exe
+1,1,0,net1.exe,install.exe => cmd.exe => net.exe => net1.exe
+49,0,49,net1.exe,unknown_process.exe => unknown_process.exe => cmd.exe => net.exe => net1.exe
+8,0,8,net1.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => net.exe => net1.exe
+3,0,3,net1.exe,unknown_process.exe => mshta.exe => cmd.exe => net.exe => net1.exe
+2,0,2,net1.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => net.exe => net1.exe
+35,35,0,net1.exe,cmd.exe => net.exe => net1.exe
+35,0,35,net1.exe,unknown_process.exe => unknown_process.tmp => net.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => unknown_process.exe => services.exe => net.exe => net1.exe
+63,0,63,net1.exe,unknown_process.exe => net.exe => net1.exe
+176,2,174,net1.exe,unknown_process.exe => cmd.exe => net.exe => net1.exe
+2,0,2,net1.exe,unknown_process.exe => net1.exe
+4,0,4,net1.exe,cmd.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => net.exe => net1.exe
+2,0,2,net1.exe,setup.exe => setup.exe => unknown_process.tmp => cmd.exe => net.exe => net1.exe
+4,0,4,net1.exe,unknown_process.exe => unknown_process.xyz => cmd.exe => net.exe => net1.exe
+7,0,7,net1.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => net.exe => net1.exe
+1,0,1,net1.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe => net.exe => net1.exe
+2,0,2,net1.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => net.exe => net1.exe
+2,0,2,net1.exe,unknown_process.1532508752ga_cndirect_downloadg => wscript.exe => unknown_process.exe => mshta.exe => net.exe => net1.exe
+10,0,10,net1.exe,net1.exe
+2,0,2,net1.exe,setup.exe => unknown_process.tmp => cmd.exe => net.exe => net1.exe
+1,0,1,netbtugc.exe,unknown_process.exe => cmdkey.exe => netbtugc.exe
+10,0,10,netstat.exe,powershell.exe => netstat.exe
+1,0,1,netstat.exe,unknown_process.exe => wscript.exe => cmd.exe => netstat.exe
+1,0,1,netstat.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => netstat.exe
+1,0,1,netstat.exe,unknown_process.exe => unknown_process.exe => cmd.exe => netstat.exe
+1,0,1,netstat.exe,unknown_process.exe => explorer.exe => netstat.exe
+1,0,1,netstat.exe,unknown_process.exe => cmd.exe => netstat.exe
+1,0,1,netstat.exe,unknown_process.exe => unknown_process.tmp => netstat.exe
+1,0,1,netstat.exe,unknown_process.exe => unknown_process.exe => explorer.exe => netstat.exe
+1,0,1,notepad.exe,unknown_process.exe => winlogon.exe => notepad.exe
+4,4,0,notepad.exe,powershell.exe => notepad.exe
+2,0,2,notepad.exe,wscript.exe => wscript.exe => notepad.exe
+2,0,2,notepad.exe,unknown_process.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => svchost.exe => notepad.exe
+3,0,3,notepad.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => notepad.exe
+293,0,293,notepad.exe,unknown_process.exe => cmd.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => cmd.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => notepad.exe
+7,0,7,notepad.exe,notepad.exe
+4,0,4,notepad.exe,unknown_process.exe => notepad.exe => notepad.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => notepad.exe
+1,0,1,notepad.exe,svchost.exe => notepad.exe
+1,1,0,notepad.exe,setup.exe => setup.exe => notepad.exe
+56,1,55,notepad.exe,unknown_process.exe => notepad.exe
+1,0,1,notepad.exe,cmd.exe => notepad.exe
+20,0,20,notepad.exe,unknown_process.exe => unknown_process.tmp => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => unknown_process.exe => iexplore.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe
+3,0,3,notepad.exe,unknown_process.exe => unknown_process.exe => svchost.exe => notepad.exe
+2,0,2,notepad.exe,unknown_process.exe => notepad.exe => notepad.exe => notepad.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => explorer.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => csrss.exe => notepad.exe
+12,0,12,notepad.exe,unknown_process.exe => notepad.exe => notepad.exe
+2,0,2,notepad.exe,wscript.exe => notepad.exe
+1,0,1,notepad.exe,setup.exe => notepad.exe
+1,0,1,notepad.exe,unknown_process.exe => unknown_process.exe => cmd.exe => notepad.exe
+28,0,28,notepad.exe,unknown_process.exe => unknown_process.exe => notepad.exe
+5,0,5,nslookup.exe,setup.exe => nslookup.exe
+19,0,19,nslookup.exe,wscript.exe => cmd.exe => unknown_process.exe => nslookup.exe
+10,0,10,nslookup.exe,wscript.exe => cmd.exe => powershell.exe => unknown_process.exe => nslookup.exe
+718,0,718,nslookup.exe,unknown_process.exe => nslookup.exe
+9,0,9,nslookup.exe,winword.exe => powershell.exe => nslookup.exe
+1,0,1,nslookup.exe,excel.exe => cmd.exe => nslookup.exe
+1,0,1,nslookup.exe,unknown_process.exe => cmd.exe => powershell.exe => nslookup.exe
+12,0,12,nslookup.exe,wscript.exe => eventvwr.exe => wscript.exe => unknown_process.exe => nslookup.exe
+3,0,3,nslookup.exe,winword.exe => unknown_process.exe => nslookup.exe
+1,0,1,nslookup.exe,unknown_process.exe => cmd.exe => cmd.exe => nslookup.exe
+11,0,11,nslookup.exe,unknown_process.exe => unknown_process => nslookup.exe
+6,0,6,nslookup.exe,unknown_process.exe => cmd.exe => nslookup.exe
+6,0,6,ntoskrnl.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => explorer.exe => ntoskrnl.exe
+2,0,2,osk.exe,osk.exe => osk.exe
+1,0,1,osk.exe,osk.exe => osk.exe => osk.exe
+2,0,2,osk.exe,osk.exe
+2,0,2,pcaui.exe,unknown_process.exe => unknown_process.exe => pcaui.exe
+1,1,0,pcaui.exe,pcaui.exe
+1,0,1,pcaui.exe,unknown_process.exe => unknown_process.exe => msiexec.exe => pcaui.exe
+1,0,1,ping.exe,uninst.exe => cmd.exe => ping.exe
+1,0,1,ping.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => ping.exe
+1,0,1,ping.exe,unknown_process.exe => msbuild.exe => cmd.exe => ping.exe
+33,0,33,ping.exe,unknown_process.exe => unknown_process.tmp => ping.exe
+1,0,1,ping.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => ping.exe
+36,0,36,ping.exe,setup.exe => unknown_process.exe => wscript.exe => cmd.exe => ping.exe
+15,0,15,ping.exe,cmd.exe => ping.exe
+1,0,1,ping.exe,unknown_process.com_implementation_id_maps__source_0c2aa494a69b1c49bba9062d587d4ebd11161ab6-2236-125-15324320 => unknown_process.exe => cmd.exe => ping.exe
+5,0,5,ping.exe,unknown_process.exe => mshta.exe => ping.exe
+3,0,3,ping.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => ping.exe
+1,0,1,ping.exe,excel.exe => cmd.exe => ping.exe
+2,0,2,ping.exe,wscript.exe => unknown_process.exe => cmd.exe => ping.exe
+12,0,12,ping.exe,unknown_process.exe => wscript.exe => cmd.exe => ping.exe
+70,0,70,ping.exe,unknown_process.exe => unknown_process.exe => cmd.exe => ping.exe
+3,0,3,ping.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => ping.exe
+3,0,3,ping.exe,winword.exe => cmd.exe => ping.exe
+1,0,1,ping.exe,unknown_process.exe => unknown_process.tmp => wscript.exe => cmd.exe => ping.exe
+4,0,4,ping.exe,unknown_process.exe => svchost.exe => cmd.exe => ping.exe
+15,0,15,ping.exe,unknown_process.exe => ping.exe
+182,2,180,ping.exe,unknown_process.exe => cmd.exe => ping.exe
+2,0,2,ping.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => ping.exe
+1,0,1,ping.exe,wscript.exe => cmd.exe => unknown_process.exe => cmd.exe => ping.exe
+1,0,1,ping.exe,wscript.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => cmd.exe => ping.exe
+3,0,3,ping.exe,wscript.exe => cmd.exe => ping.exe
+3,0,3,ping.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => ping.exe
+3,0,3,ping.exe,install.exe => unknown_process.exe => cmd.exe => ping.exe
+2,0,2,ping.exe,unknown_process.exe => wscript.exe => unknown_process.exe => cmd.exe => ping.exe
+2,0,2,ping.exe,excel.exe => ping.exe
+14,0,14,ping.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => ping.exe
+1,0,1,ping.exe,wscript.exe => ping.exe
+1,0,1,ping.exe,unknown_process.exe => dwm.exe => cmd.exe => ping.exe
+8,0,8,ping.exe,ping.exe
+1,0,1,ping.exe,unknown_process.exe => dllhost.exe => cmd.exe => ping.exe
+8,0,8,ping.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => ping.exe
+2,0,2,ping.exe,install.exe => cmd.exe => ping.exe
+6,0,6,ping.exe,unknown_process.exe => wscript.exe => unknown_process.exe => mshta.exe => cmd.exe => cmd.exe => ping.exe
+2,0,2,ping.exe,unknown_process.exe => mshta.exe => unknown_process.exe => cmd.exe => ping.exe
+3,0,3,pkgmgr.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe
+2,0,2,pkgmgr.exe,cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe
+1,0,1,pkgmgr.exe,unknown_process.exe => cmd.exe => pkgmgr.exe
+1,0,1,pkgmgr.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => pkgmgr.exe
+4,0,4,pnputil.exe,unknown_process.exe => unknown_process.tmp => pnputil.exe
+1,0,1,pnputil.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => pnputil.exe
+8,0,8,powercfg.exe,unknown_process.exe => cmd.exe => powercfg.exe
+3,0,3,powercfg.exe,unknown_process.exe => unknown_process.exe => cmd.exe => powercfg.exe
+2,0,2,powercfg.exe,setup.exe => unknown_process.tmp => cmd.exe => powercfg.exe
+15,0,15,powercfg.exe,powershell.exe => powercfg.exe
+6,0,6,powercfg.exe,unknown_process.exe => powercfg.exe
+1,0,1,powercfg.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => powercfg.exe
+1,0,1,raserver.exe,winword.exe => unknown_process.exe => regasm.exe => explorer.exe => raserver.exe
+3,0,3,raserver.exe,unknown_process.exe => unknown_process.exe => explorer.exe => raserver.exe
+4,0,4,regini.exe,unknown_process.exe => cmd.exe => regini.exe
+2,0,2,regini.exe,unknown_process.exe => dwm.exe => regini.exe
+1,0,1,regini.exe,svchost.exe => regini.exe
+1,0,1,regini.exe,unknown_process.exe => regini.exe
+6,0,6,regini.exe,unknown_process.exe => csrss.exe => regini.exe
+1,0,1,regini.exe,svchost.exe => svchost.exe => regini.exe
+1,0,1,remoteposworker.exe,remoteposworker.exe
+1,0,1,reset.exe,reset.exe
+1,0,1,resmon.exe,unknown_process.exe => resmon.exe
+1,0,1,route.exe,unknown_process.exe => route.exe
+1,1,0,route.exe,wscript.exe => cmd.exe => route.exe
+2,0,2,runas.exe,unknown_process.exe => cmd.exe => runas.exe
+1,0,1,runas.exe,unknown_process.exe => runas.exe
+1,0,1,runas.exe,runas.exe
+2,0,2,runtimebroker.exe,unknown_process.exe => runtimebroker.exe
+2,0,2,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+25,1,24,schtasks.exe,unknown_process.exe => unknown_process.tmp => schtasks.exe
+1,0,1,schtasks.exe,wscript.exe => wscript.exe => schtasks.exe
+4,0,4,schtasks.exe,shellexperiencehost.exe => wscript.exe => schtasks.exe
+39,0,39,schtasks.exe,wscript.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => regsvr32.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => svchost.exe => cmd.exe => schtasks.exe
+3,0,3,schtasks.exe,winword.exe => wscript.exe => cmd.exe => schtasks.exe
+47,0,47,schtasks.exe,unknown_process.exe => unknown_process.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,winword.exe => powershell.exe => unknown_process.exe => schtasks.exe
+1,0,1,schtasks.exe,dmclient.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => tzsync.exe => schtasks.exe
+13,0,13,schtasks.exe,wscript.exe => cmd.exe => cscript.exe => schtasks.exe
+1,0,1,schtasks.exe,setup.exe => unknown_process.tmp => schtasks.exe
+3,0,3,schtasks.exe,unknown_process.exe => setup.exe => unknown_process.exe => schtasks.exe
+3,0,3,schtasks.exe,winlogon.exe => cmd.exe => schtasks.exe
+36,0,36,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+11,0,11,schtasks.exe,unknown_process.exe => svchost.exe => schtasks.exe
+4,0,4,schtasks.exe,svchost.exe => svchost.exe => schtasks.exe
+7,0,7,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => schtasks.exe
+6,0,6,schtasks.exe,install.exe => unknown_process.exe => cmd.exe => schtasks.exe
+4,0,4,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => schtasks.exe
+88,0,88,schtasks.exe,unknown_process.exe => cmd.exe => schtasks.exe
+2,0,2,schtasks.exe,winword.exe => schtasks.exe
+8,0,8,schtasks.exe,schtasks.exe
+4,0,4,schtasks.exe,unknown_process.exe => wscript.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => schtasks.exe
+7,0,7,schtasks.exe,cmd.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => csrss.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,setup.exe => unknown_process.exe => cmd.exe => schtasks.exe
+6,0,6,schtasks.exe,unknown_process.exe => dllhost.exe => schtasks.exe
+1,0,1,schtasks.exe,onedrive.exe => schtasks.exe
+28,0,28,schtasks.exe,powershell.exe => schtasks.exe
+1,0,1,schtasks.exe,calc.exe => schtasks.exe
+3,0,3,schtasks.exe,unknown_process.exe => cmd.exe => unknown_process.exe => schtasks.exe
+2,0,2,schtasks.exe,rundll32.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => cmd.exe => unknown_process.exe => regasm.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.exe => wscript.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => schtasks.exe
+9,0,9,schtasks.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => schtasks.exe
+4,0,4,schtasks.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => schtasks.exe
+2,0,2,schtasks.exe,cmd.exe => unknown_process.exe => cmd.exe => schtasks.exe
+2,0,2,schtasks.exe,svchost.exe => schtasks.exe
+2,0,2,schtasks.exe,services.exe => wsqmcons.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.exe => installutil.exe => unknown_process.exe => installutil.exe => regasm.exe => schtasks.exe
+3,0,3,schtasks.exe,unknown_process.exe => msbuild.exe => schtasks.exe
+1,0,1,schtasks.exe,setup.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,reset.exe => schtasks.exe
+121,0,121,schtasks.exe,wscript.exe => schtasks.exe
+6,0,6,schtasks.exe,unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => schtasks.exe
+4,0,4,schtasks.exe,wscript.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.exe => services.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => unknown_process.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => csrss.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => schtasks.exe
+101,0,101,schtasks.exe,unknown_process.exe => unknown_process.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process => cmd.exe => schtasks.exe
+495,0,495,schtasks.exe,unknown_process.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.exe => regsvcs.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => wscript.exe => cmd.exe => powershell.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,wscript.exe => cmd.exe => powershell.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => unknown_process.exe => schtasks.exe
+5,0,5,schtasks.exe,winword.exe => wscript.exe => schtasks.exe
+14,0,14,schtasks.exe,unknown_process.exe => regasm.exe => schtasks.exe
+1,0,1,schtasks.exe,winword.exe => powershell.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+5,0,5,schtasks.exe,unknown_process.exe => cmd.exe => cmd.exe => schtasks.exe
+2,0,2,schtasks.exe,unknown_process.scr => unknown_process.exe => unknown_process.exe => regsvcs.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => unknown_process.exe => schtasks.exe
+20,0,20,schtasks.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => schtasks.exe
+2,0,2,schtasks.exe,winword.exe => powershell.exe => cmd.exe => schtasks.exe
+2,0,2,schtasks.exe,rundll32.exe => cmd.exe => schtasks.exe
+1,0,1,schtasks.exe,remoteposworker.exe => schtasks.exe
+2,0,2,schtasks.exe,setup.exe => unknown_process.exe => schtasks.exe
+1,0,1,schtasks.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => schtasks.exe
+25,0,25,schtasks.exe,mshta.exe => schtasks.exe
+1,0,1,sdclt.exe,sdclt.exe
+1,0,1,sdclt.exe,unknown_process.exe => cmd.exe => sdclt.exe
+2,0,2,sdclt.exe,unknown_process.exe => svchost.exe => csrss.exe => sdclt.exe
+4,0,4,sdclt.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => sdclt.exe
+1,0,1,searchfilterhost.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => searchfilterhost.exe
+1,0,1,searchfilterhost.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => searchfilterhost.exe => searchfilterhost.exe
+1,0,1,searchindexer.exe,unknown_process.exe => unknown_process.exe => searchindexer.exe
+1,0,1,searchindexer.exe,searchindexer.exe
+1,0,1,searchindexer.exe,unknown_process.exe => searchindexer.exe
+1,0,1,secedit.exe,unknown_process.exe => cmd.exe => secedit.exe
+1,1,0,secedit.exe,wscript.exe => secedit.exe
+1,0,1,services.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => services.exe
+1,0,1,services.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => services.exe
+1,0,1,services.exe,unknown_process.exe => svchost.exe => services.exe
+43,0,43,services.exe,services.exe
+1,0,1,services.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => services.exe
+2,0,2,services.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => services.exe
+4,0,4,services.exe,unknown_process.exe => unknown_process.exe => services.exe
+1,0,1,services.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => rundll32.exe => services.exe
+17,0,17,services.exe,unknown_process.exe => services.exe
+1,0,1,services.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => services.exe
+2,0,2,services.exe,winlogon.exe => unknown_process.exe => services.exe
+2,0,2,services.exe,unknown_process.exe => regsvr32.exe => services.exe
+1,0,1,services.exe,unknown_process.exe => unknown_process.exe => svchost.exe => services.exe
+1,0,1,services.exe,unknown_process.exe => winlogon.exe => svchost.exe => services.exe
+1,1,0,sethc.exe,sethc.exe
+1,0,1,settingsynchost.exe,unknown_process.exe => settingsynchost.exe
+10,0,10,setx.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe => setx.exe
+1,0,1,setx.exe,setup.exe => cmd.exe => setx.exe
+1,0,1,setx.exe,unknown_process.exe => setx.exe
+10,0,10,setx.exe,unknown_process.exe => cmd.exe => setx.exe
+1,1,0,shrpubw.exe,shrpubw.exe
+2,0,2,shutdown.exe,unknown_process.exe => unknown_process.exe => cmd.exe => shutdown.exe
+1,0,1,shutdown.exe,shutdown.exe
+15,0,15,shutdown.exe,unknown_process.exe => cmd.exe => shutdown.exe
+1,0,1,shutdown.exe,unknown_process.exe => cmd.exe => cmd.exe => shutdown.exe
+1,0,1,shutdown.exe,unknown_process.exe => rundll32.exe => cmd.exe => shutdown.exe
+2,0,2,shutdown.exe,unknown_process.exe => unknown_process.exe => shutdown.exe
+7,0,7,shutdown.exe,unknown_process.exe => shutdown.exe
+2,2,0,shutdown.exe,cmd.exe => shutdown.exe
+2,0,2,shutdown.exe,unknown_process.exe => unknown_process.tmp => shutdown.exe
+1,1,0,sigverif.exe,sigverif.exe
+3,0,3,sihost.exe,sihost.exe
+4,0,4,sihost.exe,unknown_process.exe => sihost.exe
+9,0,9,smss.exe,smss.exe
+3,0,3,smss.exe,unknown_process.exe => smss.exe
+2,0,2,sort.exe,unknown_process.exe => unknown_process.exe => cmd.exe => sort.exe
+1,0,1,sort.exe,unknown_process.exe => sort.exe
+1,0,1,sort.exe,cmd.exe => unknown_process.exe => sort.exe
+3,0,3,sort.exe,sort.exe
+2,0,2,spoolsv.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => services.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => spoolsv.exe
+1,0,1,spoolsv.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => unknown_process.exe => explorer.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => unknown_process.exe => spoolsv.exe
+7,0,7,spoolsv.exe,unknown_process.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => spoolsv.exe
+4,0,4,spoolsv.exe,unknown_process.exe => svchost.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => winlogon.exe => svchost.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => spoolsv.exe
+1,0,1,spoolsv.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => spoolsv.exe
+36,0,36,spoolsv.exe,spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => unknown_process.exe => svchost.exe => spoolsv.exe
+1,0,1,spoolsv.exe,winword.exe => unknown_process.exe => regasm.exe => explorer.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => explorer.exe => spoolsv.exe
+1,0,1,spoolsv.exe,winword.exe => powershell.exe => unknown_process.exe => svchost.exe => spoolsv.exe
+1,0,1,spoolsv.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => services.exe => spoolsv.exe
+3,0,3,stikynot.exe,unknown_process.exe => stikynot.exe
+1,1,0,stikynot.exe,stikynot.exe
+11,0,11,subst.exe,unknown_process.exe => cmd.exe => subst.exe
+13,0,13,svchost.exe,unknown_process.exe => unknown_process.exe => cmd.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => dllhost.exe => svchost.exe
+1,0,1,svchost.exe,winword.exe => cmd.exe => powershell.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => svchost.exe => wscript.exe => cmd.exe => svchost.exe => svchost.exe
+4,0,4,svchost.exe,wscript.exe => unknown_process.exe => rundll32.exe => svchost.exe
+2,0,2,svchost.exe,svchost.exe => svchost.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => services.exe => svchost.exe
+100,0,100,svchost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => netsh.exe => svchost.exe
+75,0,75,svchost.exe,unknown_process.exe => unknown_process.exe => svchost.exe
+4,0,4,svchost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => winlogon.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+30,0,30,svchost.exe,unknown_process.exe => svchost.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => regsvr32.exe => services.exe => svchost.exe
+3,0,3,svchost.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,powershell.exe => powershell.exe => unknown_process.exe => svchost.exe
+12,0,12,svchost.exe,unknown_process.exe => winlogon.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => svchost.exe => winlogon.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => services.exe => svchost.exe
+507,0,507,svchost.exe,svchost.exe
+17,0,17,svchost.exe,unknown_process.exe => regsvr32.exe => svchost.exe
+2,0,2,svchost.exe,unknown_process.exe => wscript.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => svchost.exe
+3,0,3,svchost.exe,unknown_process.exe => svchost.exe => wscript.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => services.exe => svchost.exe
+2,0,2,svchost.exe,unknown_process.exe => svchost.exe => svchost.exe => svchost.exe
+16,0,16,svchost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => svchost.exe => svchost.exe
+1,0,1,svchost.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => explorer.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => svchost.exe
+1,0,1,svchost.exe,setup.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => unknown_process.exe => svchost.exe
+12,0,12,svchost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => svchost.exe
+10,0,10,svchost.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => svchost.exe
+2,0,2,svchost.exe,unknown_process.exe => cmd.exe => cmd.exe => unknown_process.exe => svchost.exe
+15,0,15,svchost.exe,svchost.exe => svchost.exe
+4,0,4,svchost.exe,unknown_process.exe => rundll32.exe => svchost.exe
+2,0,2,svchost.exe,winword.exe => svchost.exe => svchost.exe
+38,0,38,svchost.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+3,0,3,svchost.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => powershell.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,winword.exe => powershell.exe => unknown_process.exe => control.exe => explorer.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => applaunch.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => explorer.exe => unknown_process.exe => svchost.exe
+9,0,9,svchost.exe,winword.exe => svchost.exe
+3,0,3,svchost.exe,winword.exe => powershell.exe => unknown_process.exe => explorer.exe => unknown_process.exe => svchost.exe
+2,0,2,svchost.exe,winword.exe => powershell.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => svchost.exe => winlogon.exe => unknown_process.exe => unknown_process.exe => svchost.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+3,0,3,svchost.exe,unknown_process.exe => unknown_process.exe => powershell.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => svchost.exe => wscript.exe => cmd.exe => svchost.exe
+10,0,10,svchost.exe,rundll32.exe => unknown_process.tmp => svchost.exe
+8,0,8,svchost.exe,unknown_process.exe => winlogon.exe => svchost.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => svchost.exe => xpsrchvw.exe => svchost.exe
+1,0,1,svchost.exe,install.exe => unknown_process.exe => cmd.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => svchost.exe => unknown_process.exe => svchost.exe
+303,0,303,svchost.exe,unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.tmp => svchost.exe
+8,0,8,svchost.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => vbc.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => svchost.exe => services.exe => svchost.exe
+2,0,2,svchost.exe,setup.exe => setup.exe => unknown_process.exe => unknown_process.exe => svchost.exe
+4,0,4,svchost.exe,iexplore.exe => iexplore.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => control.exe => explorer.exe => unknown_process.exe => svchost.exe
+8,0,8,svchost.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,explorer.exe => wscript.exe => cmd.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => cmd.exe => svchost.exe => svchost.exe
+1,0,1,svchost.exe,svchost.exe => unknown_process.exe => svchost.exe
+1,0,1,svchost.exe,unknown_process.exe => unknown_process.exe => rundll32.exe => services.exe => svchost.exe
+4,0,4,svchost.exe,unknown_process.exe => cmd.exe => svchost.exe
+1,0,1,svchost.exe,winword.exe => cmd.exe => powershell.exe => cmd.exe => unknown_process.pkzip => control.exe => explorer.exe => unknown_process.exe => svchost.exe
+1,0,1,sxstrace.exe,unknown_process.exe => unknown_process.exe => sxstrace.exe
+1,1,0,synchost.exe,synchost.exe
+1,0,1,systeminfo.exe,unknown_process.exe => regasm.exe => cmd.exe => systeminfo.exe
+1,0,1,systeminfo.exe,cmd.exe => systeminfo.exe
+2,0,2,systeminfo.exe,wscript.exe => unknown_process.exe => vbc.exe => systeminfo.exe
+5,0,5,systeminfo.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => cmd.exe => systeminfo.exe
+21,0,21,systeminfo.exe,unknown_process.exe => cmd.exe => systeminfo.exe
+1,1,0,systeminfo.exe,wscript.exe => cmd.exe => systeminfo.exe
+1,0,1,systeminfo.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => systeminfo.exe
+2,0,2,systeminfo.exe,unknown_process.exe => unknown_process.exe => cmd.exe => systeminfo.exe
+1,0,1,systeminfo.exe,svchost.exe => svchost.exe => cmd.exe => cmd.exe => systeminfo.exe
+1,0,1,systray.exe,unknown_process.exe => unknown_process.exe => explorer.exe => systray.exe
+1,0,1,systray.exe,winword.exe => cmd.exe => cmd.exe => unknown_process.exe => unknown_process.exe => explorer.exe => systray.exe
+1,1,0,tabcal.exe,tabcal.exe
+1,0,1,takeown.exe,unknown_process.exe => takeown.exe
+3,0,3,takeown.exe,cmd.exe => takeown.exe
+4,0,4,takeown.exe,unknown_process.exe => cmd.exe => cmd.exe => takeown.exe
+9,0,9,takeown.exe,unknown_process.exe => cmd.exe => takeown.exe
+18,0,18,takeown.exe,unknown_process.exe => unknown_process => takeown.exe
+3,0,3,takeown.exe,unknown_process.exe => unknown_process.exe => takeown.exe
+3,0,3,takeown.exe,unknown_process.exe => unknown_process.exe => cmd.exe => takeown.exe
+2,0,2,takeown.exe,unknown_process.exe => unknown_process.tmp => explorer.exe => sysprep.exe => cmd.exe => takeown.exe
+1,0,1,takeown.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => takeown.exe
+7,0,7,taskeng.exe,unknown_process.exe => wscript.exe => cmd.exe => taskeng.exe
+1,0,1,taskeng.exe,unknown_process.exe => winlogon.exe => svchost.exe => taskeng.exe
+10,0,10,taskeng.exe,taskeng.exe
+1,0,1,taskeng.exe,unknown_process.exe => unknown_process.exe => svchost.exe => taskeng.exe
+1,0,1,taskhostw.exe,unknown_process.exe => unknown_process.exe => taskhostw.exe
+4,0,4,taskkill.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => taskkill.exe
+6,0,6,taskkill.exe,winword.exe => cmd.exe => unknown_process.exe => unknown_process.tmp => unknown_process.tmp => cmd.exe => taskkill.exe
+311,0,311,taskkill.exe,unknown_process.exe => cmd.exe => taskkill.exe
+4,4,0,taskkill.exe,powershell.exe => taskkill.exe
+3,0,3,taskkill.exe,setup.exe => unknown_process.tmp => taskkill.exe
+196,0,196,taskkill.exe,unknown_process.exe => unknown_process.exe => cmd.exe => taskkill.exe
+9,0,9,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => taskkill.exe
+2,0,2,taskkill.exe,unknown_process.exe => unknown_process.tmp => unknown_process.tmp => cmd.exe => taskkill.exe
+39,10,29,taskkill.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => taskkill.exe
+4710,0,4710,taskkill.exe,unknown_process.exe => unknown_process.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => taskkill.exe
+185,0,185,taskkill.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => taskkill.exe
+2,0,2,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => taskkill.exe
+29,0,29,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => taskkill.exe
+4,0,4,taskkill.exe,wscript.exe => cmd.exe => taskkill.exe
+17,0,17,taskkill.exe,winword.exe => cmd.exe => cmd.exe => taskkill.exe
+17,0,17,taskkill.exe,unknown_process.exe => wscript.exe => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,shellexperiencehost.exe => wscript.exe => cmd.exe => taskkill.exe
+32,0,32,taskkill.exe,unknown_process.exe => vbc.exe => unknown_process.exe => unknown_process.exe => taskkill.exe
+4,0,4,taskkill.exe,install.exe => unknown_process.exe => wscript.exe => cmd.exe => taskkill.exe
+192,1,191,taskkill.exe,unknown_process.exe => unknown_process.tmp => taskkill.exe
+6,0,6,taskkill.exe,wscript.exe => cmd.exe => unknown_process.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => cmd.exe => cmd.exe => cscript.exe => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.exe => taskkill.exe
+3,0,3,taskkill.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,setup.exe => dllhost.exe => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => msbuild.exe => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => csrss.exe => cmd.exe => taskkill.exe
+4,0,4,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => svchost.exe => taskkill.exe
+32,0,32,taskkill.exe,taskkill.exe
+19,0,19,taskkill.exe,powershell.exe => cmd.exe => taskkill.exe
+2,0,2,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => taskkill.exe
+3,0,3,taskkill.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => taskkill.exe
+7,0,7,taskkill.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => taskkill.exe
+556,0,556,taskkill.exe,unknown_process.exe => taskkill.exe
+2,0,2,taskkill.exe,setup.exe => unknown_process.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => unknown_process.vbe => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => wscript.exe => cmd.exe => taskkill.exe
+3,0,3,taskkill.exe,excel.exe => cmd.exe => taskkill.exe
+2,0,2,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => regsvcs.exe => cmd.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => cmd.exe => cmd.exe => taskkill.exe
+26,0,26,taskkill.exe,cmd.exe => taskkill.exe
+4,0,4,taskkill.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => taskkill.exe
+5,0,5,taskkill.exe,unknown_process.exe => unknown_process.exe => unknown_process.tmp => taskkill.exe
+2,0,2,taskkill.exe,wscript.exe => taskkill.exe
+1,0,1,taskkill.exe,unknown_process.exe => unknown_process.vbe => powershell.exe => taskkill.exe
+1,0,1,taskkill.exe,cmd.exe => cmd.exe => taskkill.exe
+6,6,0,tasklist.exe,cmd.exe => tasklist.exe
+1,1,0,tasklist.exe,wscript.exe => cmd.exe => tasklist.exe
+4,0,4,tasklist.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => tasklist.exe
+1,0,1,tasklist.exe,setup.exe => unknown_process.tmp => cmd.exe => cmd.exe => tasklist.exe
+6,0,6,tasklist.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => cmd.exe => tasklist.exe
+4,0,4,tasklist.exe,unknown_process.exe => tasklist.exe
+3,0,3,tasklist.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => cmd.exe => tasklist.exe
+2,0,2,tasklist.exe,unknown_process.exe => cmd.exe => cmd.exe => tasklist.exe
+4,0,4,tasklist.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => tasklist.exe
+21,0,21,tasklist.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => tasklist.exe
+1,0,1,tasklist.exe,setup.exe => wscript.exe => cmd.exe => cmd.exe => tasklist.exe
+1,0,1,tasklist.exe,cmd.exe => cmd.exe => tasklist.exe
+9,0,9,tasklist.exe,unknown_process.exe => unknown_process.exe => cmd.exe => tasklist.exe
+326,0,326,tasklist.exe,unknown_process.exe => cmd.exe => tasklist.exe
+1,0,1,tasklist.exe,svchost.exe => svchost.exe => cmd.exe => cmd.exe => tasklist.exe
+1,0,1,tasklist.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => cmd.exe => tasklist.exe
+7,0,7,tasklist.exe,excel.exe => powershell.exe => unknown_process.exe => cmd.exe => tasklist.exe
+146,0,146,tasklist.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => tasklist.exe
+4,0,4,tasklist.exe,unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => cmd.exe => tasklist.exe
+1,0,1,taskmgr.exe,unknown_process.exe => unknown_process => taskmgr.exe
+37,0,37,taskmgr.exe,unknown_process.exe => taskmgr.exe
+1,0,1,taskmgr.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => taskmgr.exe
+1,0,1,timeout.exe,setup.exe => wscript.exe => cmd.exe => timeout.exe
+520,0,520,timeout.exe,unknown_process.exe => cmd.exe => timeout.exe
+2,0,2,timeout.exe,install.exe => unknown_process.exe => wscript.exe => cmd.exe => timeout.exe
+1,0,1,timeout.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => timeout.exe
+4,0,4,timeout.exe,unknown_process.exe => wscript.exe => cmd.exe => timeout.exe
+1,0,1,timeout.exe,winword.exe => cmd.exe => timeout.exe
+100,0,100,timeout.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => timeout.exe
+7,0,7,timeout.exe,excel.exe => powershell.exe => unknown_process.exe => cmd.exe => timeout.exe
+7,7,0,timeout.exe,cmd.exe => timeout.exe
+4,0,4,timeout.exe,unknown_process.exe => unknown_process.tmp => timeout.exe
+2,0,2,timeout.exe,mshta.exe => cmd.exe => timeout.exe
+1,0,1,timeout.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => timeout.exe
+1,0,1,timeout.exe,unknown_process.exe => cmd.exe => cmd.exe => timeout.exe
+1,0,1,timeout.exe,cmd.exe => cmd.exe => timeout.exe
+2,0,2,timeout.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => timeout.exe
+1,0,1,timeout.exe,wscript.exe => unknown_process.scr => cmd.exe => timeout.exe
+2,2,0,timeout.exe,timeout.exe
+1,0,1,timeout.exe,setup.exe => unknown_process.tmp => cmd.exe => timeout.exe
+15,0,15,timeout.exe,winword.exe => cmd.exe => cmd.exe => timeout.exe
+3,0,3,timeout.exe,setup.exe => unknown_process.tmp => timeout.exe
+12,0,12,timeout.exe,unknown_process.exe => unknown_process.exe => cmd.exe => timeout.exe
+17,0,17,timeout.exe,setup.exe => unknown_process.exe => wscript.exe => cmd.exe => wscript.exe => cmd.exe => timeout.exe
+4,0,4,timeout.exe,unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => timeout.exe
+2,0,2,timeout.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => wscript.exe => cmd.exe => timeout.exe
+1,0,1,timeout.exe,setup.exe => setup.exe => unknown_process.tmp => cmd.exe => timeout.exe
+1,0,1,timeout.exe,setup.exe => dllhost.exe => cmd.exe => timeout.exe
+1,1,0,tracert.exe,tracert.exe
+1,0,1,tracert.exe,unknown_process.exe => cmd.exe => tracert.exe
+3,0,3,tskill.exe,unknown_process.exe => cmd.exe => tskill.exe
+1,0,1,tzsync.exe,unknown_process.exe => tzsync.exe
+1,0,1,tzutil.exe,unknown_process.exe => cmd.exe => tzutil.exe
+1,1,0,upnpcont.exe,upnpcont.exe
+45,0,45,vssadmin.exe,unknown_process.exe => cmd.exe => vssadmin.exe
+2,0,2,vssadmin.exe,unknown_process.exe => unknown_process.exe => explorer.exe => vssadmin.exe
+1,0,1,vssadmin.exe,osk.exe => osk.exe => osk.exe => mshta.exe => cmd.exe => vssadmin.exe
+8,0,8,vssadmin.exe,unknown_process.exe => unknown_process => vssadmin.exe
+2,0,2,vssadmin.exe,csrss.exe => cmd.exe => vssadmin.exe
+1,0,1,vssadmin.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => mshta.exe => cmd.exe => vssadmin.exe
+2,0,2,vssadmin.exe,cmd.exe => vssadmin.exe
+10,0,10,vssadmin.exe,unknown_process.exe => vssadmin.exe
+1,0,1,vssadmin.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => vssadmin.exe
+2,0,2,vssadmin.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => vssadmin.exe
+1,0,1,vssadmin.exe,dllhost.exe => cmd.exe => vssadmin.exe
+1,0,1,vssadmin.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => eventvwr.exe => cmd.exe => vssadmin.exe
+6,0,6,vssadmin.exe,unknown_process.exe => unknown_process.exe => vssadmin.exe
+1,0,1,vssadmin.exe,unknown_process.exe => svchost.exe => svchost.exe => cmd.exe => compmgmtlauncher.exe => cmd.exe => vssadmin.exe
+1,0,1,vssadmin.exe,unknown_process.vir_exe => cmd.exe => vssadmin.exe
+1,0,1,vssadmin.exe,unknown_process.exe => svchost.exe => cmd.exe => vssadmin.exe
+10,0,10,vssadmin.exe,unknown_process.exe => unknown_process.exe => cmd.exe => vssadmin.exe
+1,0,1,vssadmin.exe,unknown_process.exe => explorer.exe => vssadmin.exe
+2,0,2,vssadmin.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => vssadmin.exe
+1,0,1,vssvc.exe,vssvc.exe
+2,0,2,vssvc.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => services.exe => vssvc.exe
+2,0,2,w32tm.exe,unknown_process.exe => w32tm.exe
+2,0,2,w32tm.exe,unknown_process.exe => w32tm.exe => w32tm.exe
+1,0,1,waitfor.exe,winword.exe => cmd.exe => waitfor.exe
+2,0,2,wbadmin.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => mshta.exe => cmd.exe => wbadmin.exe
+1,0,1,wbadmin.exe,osk.exe => osk.exe => osk.exe => mshta.exe => cmd.exe => wbadmin.exe
+3,0,3,wbadmin.exe,unknown_process.exe => unknown_process.exe => cmd.exe => wbadmin.exe
+1,0,1,wbadmin.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => mshta.exe => cmd.exe => wbadmin.exe
+4,0,4,wbadmin.exe,unknown_process.exe => cmd.exe => wbadmin.exe
+1,0,1,wbadmin.exe,unknown_process.exe => svchost.exe => cmd.exe => wbadmin.exe
+1,1,0,wermgr.exe,wermgr.exe
+1,0,1,wermgr.exe,unknown_process.exe => powershell.exe => wermgr.exe
+1,0,1,wermgr.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wermgr.exe
+1,0,1,wermgr.exe,onedrivesetup.exe => onedrivesetup.exe => wermgr.exe
+1,0,1,wevtutil.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wevtutil.exe
+2,0,2,wevtutil.exe,unknown_process.exe => cmd.exe => unknown_process.exe => unknown_process.exe => wevtutil.exe
+6,0,6,wevtutil.exe,unknown_process.exe => unknown_process.exe => cmd.exe => wevtutil.exe
+1,0,1,wevtutil.exe,servicemodelreg.exe => wevtutil.exe
+14,14,0,wevtutil.exe,wscript.exe => cmd.exe => wevtutil.exe
+4,0,4,wevtutil.exe,unknown_process.exe => wevtutil.exe
+2,0,2,wevtutil.exe,unknown_process.exe => cmd.exe => wevtutil.exe
+1,0,1,where.exe,unknown_process.exe => cmd.exe => where.exe
+4,0,4,where.exe,unknown_process.exe => cmd.exe => unknown_process.exe => cmd.exe => powershell.exe => cmd.exe => where.exe
+3,0,3,whoami.exe,unknown_process.exe => cmd.exe => whoami.exe
+1,0,1,whoami.exe,cmd.exe => whoami.exe
+6,0,6,whoami.exe,unknown_process.exe => svchost.exe => whoami.exe
+2,0,2,whoami.exe,powershell.exe => cmd.exe => whoami.exe
+1,1,0,wiawow64.exe,wiawow64.exe
+1,0,1,wifitask.exe,wifitask.exe => wifitask.exe => wifitask.exe
+1,0,1,wifitask.exe,wifitask.exe
+1,0,1,wifitask.exe,wifitask.exe => wifitask.exe
+1,0,1,wifitask.exe,wifitask.exe => wifitask.exe => wifitask.exe => wifitask.exe => wifitask.exe
+1,0,1,wininit.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => unknown_process.tmp => wininit.exe
+2,0,2,wininit.exe,unknown_process.exe => wininit.exe
+1,1,0,wininit.exe,cmd.exe => powershell.exe => wininit.exe
+7,0,7,wininit.exe,wininit.exe
+1,0,1,wininit.exe,mstsc.exe => wininit.exe
+1,0,1,wininit.exe,setup.exe => unknown_process.tmp => setup.exe => unknown_process.tmp => wininit.exe
+1,0,1,winlogon.exe,winword.exe => powershell.exe => unknown_process.exe => unknown_process.exe => winlogon.exe
+1,0,1,winlogon.exe,rundll32.exe => unknown_process.exe => unknown_process.exe => iexplore.exe => winlogon.exe
+48,0,48,winlogon.exe,winlogon.exe
+7,0,7,winlogon.exe,unknown_process.exe => unknown_process.exe => svchost.exe => winlogon.exe
+2,0,2,winlogon.exe,winword.exe => powershell.exe => unknown_process.exe => unknown_process.exe => winlogon.exe => winlogon.exe
+4,0,4,winlogon.exe,unknown_process.exe => unknown_process.exe => winlogon.exe
+18,0,18,winlogon.exe,unknown_process.exe => winlogon.exe
+2,0,2,winlogon.exe,unknown_process.exe => unknown_process.exe => winlogon.exe => winlogon.exe
+3,0,3,winlogon.exe,unknown_process.exe => svchost.exe => winlogon.exe
+1,0,1,winlogon.exe,unknown_process.exe => unknown_process.tmp => unknown_process.exe => rundll32.exe => winlogon.exe
+3,0,3,winlogon.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => winlogon.exe
+1,0,1,winlogon.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => unknown_process.exe => winlogon.exe
+1,0,1,winlogon.exe,iexplore.exe => iexplore.exe => svchost.exe => unknown_process.exe => winlogon.exe
+1,0,1,winver.exe,unknown_process.exe => winver.exe
+1,1,0,winver.exe,cmd.exe => winver.exe
+1,1,0,wlrmdr.exe,wlrmdr.exe
+1,0,1,wlrmdr.exe,unknown_process.exe => winlogon.exe => wlrmdr.exe
+2,0,2,wsqmcons.exe,unknown_process.exe => svchost.exe => csrss.exe => wsqmcons.exe
+4,0,4,wsqmcons.exe,unknown_process.exe => unknown_process.exe => svchost.exe => csrss.exe => wsqmcons.exe
+2,0,2,wsqmcons.exe,wsqmcons.exe
+2,0,2,wsqmcons.exe,services.exe => wsqmcons.exe
+1,0,1,wuauclt.exe,wuauclt.exe
+2,0,2,wuauclt.exe,unknown_process.exe => unknown_process.exe => explorer.exe => wuauclt.exe
+3,0,3,wuauclt.exe,unknown_process.exe => unknown_process.exe => wuauclt.exe
+1,0,1,wuauclt.exe,unknown_process.exe => wuauclt.exe
+1,0,1,wudfhost.exe,unknown_process.exe => wudfhost.exe
+7,0,7,wusa.exe,unknown_process.exe => wusa.exe
+1,0,1,wusa.exe,unknown_process.exe => unknown_process.exe => wusa.exe
+2,0,2,wusa.exe,unknown_process.exe => cmd.exe => unknown_process.exe => wusa.exe
+1,0,1,wusa.exe,unknown_process.exe => cmd.exe => wusa.exe
+1,0,1,xcopy.exe,unknown_process.exe => wscript.exe => unknown_process.exe => unknown_process.exe => xcopy.exe
+10,0,10,xcopy.exe,cmd.exe => xcopy.exe
+1,0,1,xcopy.exe,wscript.exe => unknown_process.exe => wscript.exe => unknown_process.exe => xcopy.exe
+1,0,1,xcopy.exe,unknown_process.exe => vbc.exe => unknown_process.exe => xcopy.exe
+6,0,6,xcopy.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => xcopy.exe
+2,0,2,xcopy.exe,unknown_process.exe => unknown_process.tmp => cmd.exe => xcopy.exe
+1,0,1,xcopy.exe,unknown_process.exe => cmd.exe => wscript.exe => cmd.exe => xcopy.exe
+1,0,1,xcopy.exe,winword.exe => unknown_process.exe => unknown_process.tmp => cmd.exe => xcopy.exe
+144,0,144,xcopy.exe,unknown_process.exe => cmd.exe => xcopy.exe
+2,0,2,xcopy.exe,unknown_process.exe => unknown_process.exe => unknown_process.exe => cmd.exe => xcopy.exe
+1,1,0,xcopy.exe,xcopy.exe
+7,0,7,xcopy.exe,unknown_process.exe => wscript.exe => cmd.exe => xcopy.exe
+285,0,285,xcopy.exe,unknown_process.exe => xcopy.exe
+1,0,1,xcopy.exe,wscript.exe => unknown_process.exe => xcopy.exe
+59,0,59,xcopy.exe,unknown_process.exe => unknown_process.exe => xcopy.exe
+1,0,1,xpsrchvw.exe,unknown_process.exe => svchost.exe => xpsrchvw.exe
+2,2,0,searchui.exe,searchui.exe
+1,0,1,shellexperiencehost.exe,unknown_process.exe => explorer.exe => shellexperiencehost.exe
+1,0,1,shellexperiencehost.exe,unknown_process.exe => shellexperiencehost.exe
+1,0,1,shellexperiencehost.exe,shellexperiencehost.exe
+1,0,1,_isdel.exe,unknown_process.exe => setup.exe => _isdel.exe
+1,0,1,flashplayerapp.exe,rundll32.exe => flashplayerapp.exe
+1,0,1,bfsvc.exe,unknown_process.exe => cmd.exe => bfsvc.exe
+1,0,1,bfsvc.exe,unknown_process.exe => unknown_process.exe => cmd.exe => bfsvc.exe
+1,1,0,adaminstall.exe,adaminstall.exe
+1,0,1,inetinfo.exe,inetinfo.exe
+1,0,1,inetinfo.exe,inetinfo.exe => unknown_process.tmp => inetinfo.exe
+1,0,1,splwow64.exe,unknown_process.exe => unknown_process.tmp => wordpad.exe => splwow64.exe
+2,2,0,splwow64.exe,splwow64.exe
+15,0,15,splwow64.exe,unknown_process.exe => splwow64.exe
+1,0,1,tftp.exe,unknown_process.exe => unknown_process.exe => tftp.exe
+1,0,1,tftp.exe,unknown_process.exe => tftp.exe
+1,0,1,pdialog.exe,unknown_process.exe => pdialog.exe
+1,0,1,journal.exe,unknown_process.exe => journal.exe
+1,1,0,c2wtshost.exe,c2wtshost.exe
+1,0,1,winhlp32.exe,unknown_process.exe => winhlp32.exe

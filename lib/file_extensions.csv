@@ -1,0 +1,165 @@
+extension, description, software
+ACTION, Automator Action,macOS
+APK,Application,Android
+APP,Executable,macOS
+BAT,Batch File,Windows
+BIN,Binary Executable,Windows, macOS, Linux
+CMD,Command Script,Windows
+COM,Command File,Windows
+COMMAND,Terminal Command,macOS
+CPL,Control Panel Extension,Windows
+CSH,C Shell Script,macOS, Linux
+EXE,Executable,Windows
+GADGET,Windows Gadget,Windows
+INF1,Setup Information File,Windows
+INS,Internet Communication Settings,Windows
+INX,InstallShield Compiled Script,Windows
+IPA,Application,iOS
+ISU,InstallShield Uninstaller Script,Windows
+JOB,Windows Task Scheduler Job File,Windows
+JSE,JScript Encoded File,Windows
+KSH,Unix Korn Shell Script,Linux
+LNK,File Shortcut,Windows
+MSC,Microsoft Common Console Document,Windows
+MSI,Windows Installer Package,Windows
+MSP,Windows Installer Patch,Windows
+MST,Windows Installer Setup Transform File,Windows
+OSX,Executable,macOS
+OUT,Executable,Linux
+PAF,Portable Application Installer File,Windows
+PIF,Program Information File,Windows
+PRG,Executable,GEM
+PS1,Windows PowerShell Cmdlet,Windows
+REG,Registry Data File,Windows
+RGS,Registry Script,Windows
+RUN,Executable,Linux
+SCR,Screensaver Executable,Windows
+SCT,Windows Scriptlet,Windows
+SHB,Windows Document Shortcut,Windows
+SHS,Shell Scrap Object,Windows
+U3P,U3 Smart Application,Windows
+VB,VBScript File,Windows
+VBE,VBScript Encoded Script,Windows
+VBS,VBScript File,Windows
+VBSCRIPT,Visual Basic Script,Windows
+WORKFLOW,Automator Workflow,macOS
+WS,Windows Script,Windows
+WSF,Windows Script,Windows
+WSH,Windows Script Preference,Windows
+0XE,Renamed Virus File,F-Secure Internet Security
+73K,TI-73 Application,TI Connect
+89K,TI-89 Application,TI Connect
+A6P,Authorware 6 Program File,Adobe Authorware
+AC,GNU Autoconf Script,Autoconf
+ACC,GEM Accessory File,Gemulator
+ACR,ACRobot Script,ACRobot
+ACTM,AutoCAD Action Macro,AutoCAD
+AHK,AutoHotkey Script,AutoHotkey
+AIR,Adobe AIR Installation Package,Adobe AIR
+APP,FoxPro Application,Visual FoxPro
+ARSCRIPT,ArtRage Script,ArtRage Studio
+AS,Adobe Flash ActionScript File,Adobe Flash
+ASB,Alphacam Stone VB Macro,Alphacam
+AWK,AWK Script,AWK
+AZW2,Kindle Active Content App File,Kindle Collection Manager
+BEAM,Compiled Erlang File,Erlang
+BTM,4DOS Batch File,4DOS
+CEL,Celestia Script,Celestia
+CELX,Celestia Script,Celestia
+CHM,Compiled HTML Help File,Firefox, IE, Safari
+COF,MPLAB COFF File,MPLAB IDE
+CRT,Security Certificate,Firefox, IE, Chrome, Safari
+DEK,Eavesdropper Batch File,Eavesdropper
+DLD,EdLog Compiled Program,Edlog
+DMC,Medical Manager Script,Sage Medical Manager
+DOCM,Word Macro-Enabled Document,Microsoft Word
+DOTM,Word Macro-Enabled Template,Microsoft Word
+DXL,Rational DOORS Script,Rational DOORS
+EAR,Java Enterprise Archive File,Apache Geronimo
+EBM,EXTRA! Basic Macro,EXTRA!
+EBS,E-Run 1.x Script,E-Prime (v1)
+EBS2,E-Run 2.0 Script,E-Prime (v2)
+ECF,SageCRM Component File,SageCRM
+EHAM,ExtraHAM Executable,HAM Programmer Toolkit
+ELF,Nintendo Wii Game File,Dolphin Emulator
+ES,SageCRM Script,SageCRM
+EX4,MetaTrader Program File,MetaTrader
+EXOPC,ExoPC Application,EXOfactory
+EZS,EZ-R Stats Batch Script,EZ-R Stats
+FAS,Compiled Fast-Load AutoLISP File,AutoCAD
+FKY,FoxPro Macro,Visual FoxPro
+FPI,FPS Creator Intelligence Script,FPS Creator
+FRS,Flash Renamer Script,Flash Renamer
+FXP,FoxPro Compiled Program,Visual FoxPro
+GS,Geosoft Script,Oasis Montaj
+HAM,HAM Executable,Ham Runtime
+HMS,HostMonitor Script,HostMonitor
+HPF,HP9100A Program File,HP9100A Emulator
+HTA,HTML Application,Internet Explorer
+IIM,iMacro Macro,iMacros (Firefox Add-on)
+IPF,SMS Installer Script,Microsoft SMS
+ISP,Internet Communication Settings,Microsoft IIS
+JAR,Java Archive,Firefox, IE, Chrome, Safari
+JS,JScript Executable Script,Firefox, IE, Chrome, Safari
+JSX,ExtendScript Script,Adobe ExtendScript Toolkit
+KIX,KiXtart Script,KiXtart
+LO,Interleaf Compiled Lisp File,QuickSilver
+LS,LightWave LScript File,LightWave
+MAM,Access Macro-Enabled Workbook,Microsoft Access
+MCR,3ds Max Macroscript or Tecplot Macro,3ds Max
+MEL,Maya Embedded Language File,Maya 2013
+MPX,FoxPro Compiled Menu Program,Visual FoxPro
+MRC,mIRC Script,mIRC
+MS,3ds Max Script,3ds Max
+MS,Maxwell Script,Maxwell Render
+MXE,Macro Express Playable Macro,Macro Express
+NEXE,Chrome Native Client Executable,Chrome
+OBS,ObjectScript Script,ObjectScript
+ORE,Ore Executable,Ore Runtime Environment
+OTM,Outlook Macro,Microsoft Outlook
+PEX,ProBoard Executable,ProBoard BBS
+PLX,Perl Executable,ActivePerl or Microsoft IIS
+POTM,PowerPoint Macro-Enabled Design Template,Microsoft PowerPoint
+PPAM,PowerPoint Macro-Enabled Add-in,Microsoft PowerPoint
+PPSM,PowerPoint Macro-Enabled Slide Show,Microsoft PowerPoint
+PPTM,PowerPoint Macro-Enabled Presentation,Microsoft PowerPoint
+PRC,Palm Resource Code File,Palm Desktop
+PVD,Instalit Script,Instalit
+PWC,PictureTaker File,PictureTaker
+PYC,Python Compiled File,Python
+PYO,Python Optimized Code,Python
+QPX,FoxPro Compiled Query Program,Visual FoxPro
+RBX,Rembo-C Compiled Script,Rembo Toolkit
+ROX,Actuate Report Object Executable,eReport
+RPJ,Real Pac Batch Job File,Real Pac
+S2A,SEAL2 Application,SEAL
+SBS,SPSS Script,SPSS
+SCA,Scala Script,Scala Designer
+SCAR,SCAR Script,SCAR
+SCB,Scala Published Script,Scala Designer
+SCRIPT,Generic Script,Original Scripting Engine1
+SMM,Ami Pro Macro,Ami Pro
+SPR,FoxPro Generated Screen File,Visual FoxPro
+TCP,Tally Compiled Program,Tally Developer
+THM,Thermwood Macro,Mastercam
+TLB,OLE Type Library,Microsoft Excel
+TMS,Telemate Script,Telemate
+UDF,Excel User Defined Function,Microsoft Excel
+UPX,Ultimate Packer for eXecutables File,Ultimate Packer for eXecutables
+URL,Internet Shortcut,Firefox, IE, Chrome, Safari
+VLX,Compiled AutoLISP File,AutoCAD
+VPM,Vox Proxy Macro,Vox Proxy
+WCM,WordPerfect Macro,WordPerfect
+WIDGET,Yahoo! Widget,Yahoo! Widgets
+WIZ,Microsoft Wizard File,Microsoft Word
+WPK,WordPerfect Macro,WordPerfect
+WPM,WordPerfect Macro,WordPerfect
+XAP,Silverlight Application Package,Micrsoft Silverlight
+XBAP,XAML Browser Application,Firefox, IE
+XLAM,Excel Macro-Enabled Add-In,Microsoft Excel
+XLM,Excel Macro-Enabled Workbook,Microsoft Excel
+XLSM,Excel Macro-Enabled Workbook,Microsoft Excel
+XLTM,Excel Macro-Enabled Template,Microsoft Excel
+XQT,SuperCalc Macro,CA SuperCalc
+XYS,XYplorer Script,XYplorer
+ZL9,Renamed Virus File,ZoneAlarm

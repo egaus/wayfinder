@@ -1,0 +1,8 @@
+stix2
+taxii2-client
+pandas 
+gensim
+nltk
+sklearn
+gitpython
+elasticsearch>=6.0.0,<7.0.0
