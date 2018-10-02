@@ -5,6 +5,7 @@ import pandas as pd
 import json
 import re
 import ntpath
+import ipaddress
 
 def get_attack_windows(local_file=None):
     '''
@@ -250,15 +251,96 @@ def create_navigator_layer(ontology, attack_data, attack_layer_filename):
     generate_layer(header, attack_layer_list, attack_layer_filename)
 
 
+def get_cidr_range_matches(ontology):
+
+    # https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
+    network_list = [('0.0.0.0/8','localhost'),
+                    ('10.0.0.0/8', 'Private-Use'),
+                    ('100.64.0.0/10',  'shared ip space'),
+                    ('127.0.0.0/8', 'localhost'),
+                    ('169.254.0.0/16', 'link local'),
+                    ('172.16.0.0/12', 'Private-Use'),
+                    ('192.0.0.0/24', 'ietf protocol assignments'),
+                    ('192.0.0.0/29', 'IPv4 Service Continuity Prefix'),
+                    ('192.0.0.8/32', 'IPv4 dummy address'),
+                    ('192.0.0.9/32', 'Port Control Protocol Anycast'),
+                    ('192.0.0.10/32', 'Traversal Using Relays around NAT Anycast'),
+                    ('192.0.0.170/32', 'NAT64/DNS64 Discovery'),
+                    ('192.0.0.171/32', 'NAT64/DNS64 Discovery'),
+                    ('192.0.2.0/24', 'Documentation (TEST-NET-1)'),
+                    ('192.31.196.0/24', 'AS112-v4'),
+                    ('192.52.193.0/24', 'AMT'),
+                    ('192.88.99.0/24', 'Deprecated (6to4 Relay Anycast)'),
+                    ('192.168.0.0/16', 'Private-Use'),
+                    ('192.175.48.0/24', 'Direct Delegation AS112 Service'),
+                    ('198.18.0.0/15', 'Benchmarking'),
+                    ('198.51.100.0/24', 'Documentation (TEST-NET-2)'),
+                    ('203.0.113.0/24', 'Documentation (TEST-NET-3)'),
+                    ('240.0.0.0/4', 'Reserved'),
+                    ('255.255.255.255/32', 'Limited Broadcast')]
+    special_ip_ranges = [
+        {'name':name,
+         'cidr':cidr,
+         'mask':int(ipaddress.ip_network(cidr).netmask),
+         'net_addr' : int(ipaddress.ip_network(cidr).network_address)}
+        for cidr, name in network_list]
+
+    ontology['meta']['ip_ranges'] = special_ip_ranges
+
+    return ontology
+
+def load_sid_knowledge(ontology, sid_file_path):
+    with open(sid_file_path, encoding='utf-8') as f:
+        microsoft_sid_info = json.load(f)
+    ontology['meta']['sids'] = microsoft_sid_info
+    return ontology
+
+def add_thresholds(ontology):
+    entropy_thresholds = {'very_low': {'idx': 7826, 'less_than': 2.163955656882057},
+                          'low': {'idx': 19565,
+                                  'less_than': 2.6525875347201473,
+                                  'greater_than': 2.163955656882057},
+                          'normal': {'idx': 58695,
+                                     'less_than': 3.186348827422928,
+                                     'greater_than': 2.6525875347201473},
+                          'high': {'idx': 70434,
+                                   'less_than': 3.3624703369097837,
+                                   'greater_than': 3.1246905200101613},
+                          'very_high': {'idx': 78260, 'greater_than': 3.3624703369097837},
+                          'tag': 'entropy'}
+
+    string_len_thresholds = {'very_low': {'idx': 7826, 'less_than': 11},
+                             'low': {'idx': 19565, 'less_than': 22, 'greater_than': 11},
+                             'normal': {'idx': 58695, 'less_than': 57, 'greater_than': 22},
+                             'high': {'idx': 70434, 'less_than': 127, 'greater_than': 52},
+                             'very_high': {'idx': 78260, 'greater_than': 127},
+                             'tag': 'string_len'}
+
+    ontology['meta']['thresholds'] = {'entropy' : entropy_thresholds, 'string_len' : string_len_thresholds}
+
+    return ontology
+
+
+
+def save_ontology(ontology, filename):
+    with open(filename, 'w') as fp:
+        json.dump(ontology, fp)
+
+
 if __name__ == '__main__':
+    sid_file_path = './lib/microsoft_sids.json'
     attack_data = get_attack_windows('./mitre_attack.csv')
     lolbin_data = lolbins.retrieve_lolbins('./lolbins', clear_cache=False)
 
     ontology = create_lol_attack_ontology(lolbin_data, attack_data)
+    ontology['meta'] = {}
     ontology = create_ms_ontology(ontology, './lib/windows_files.json')
+    ontology = get_cidr_range_matches(ontology)
+    ontology = load_sid_knowledge(ontology, sid_file_path)
+    ontology = add_thresholds(ontology)
+    save_ontology(ontology, './ontology_tmp.json')
 
-    save_ontology_lol_mitre_mapping(ontology, './lol_mitre_mapping.csv')
-
-    create_navigator_layer(ontology, attack_data, './mitre_attack_lolbin_mapping_layer.json')
+    # save_ontology_lol_mitre_mapping(ontology, './lol_mitre_mapping.csv')
+    # create_navigator_layer(ontology, attack_data, './mitre_attack_lolbin_mapping_layer.json')
 
     # https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
